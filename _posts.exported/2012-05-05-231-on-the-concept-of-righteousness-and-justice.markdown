@@ -1,0 +1,1268 @@
+---
+layout: post
+title: On the Concept of Righteousness and Justice
+joomla_id: 231
+joomla_url: on-the-concept-of-righteousness-and-justice
+date: 2012-05-05 20:02:24.000000000 +00:00
+---
+<p dir="ltr"><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<![endif]--></p>
+<div id="pagetitle">
+<h1>On the Concept of Righteousness and Justice by Swami Krishnananda</h1>
+</div>
+<hr />
+<p><span style="font-family: verdana,geneva; color: #000000;"><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<![endif]--></span></p>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<![endif]-->
+<p><span style="font-size: 12pt; font-family: 'Verdana','sans-serif';"></span><span style="font-size: 12pt; font-family: 'Verdana','sans-serif';"></span>Created on Sunday 14 April 2013 21:50</p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p><span style="font-size: 12pt;">The Universe, as the word itself suggests, is an inclusiveness of operation, in which everything, whether living or non-living, is included. The inclusiveness, which is an inviolable character of the universe, raises a question which cannot easily be answered by any attitude of life which is empirically oriented, sensorily conditioned or even psychologically delimited in any manner. The perceptional procedure of human beings, to take an example, invokes, spontaneously, a principle of exclusiveness by which it becomes necessary for the universe of observation or perception to stand outside the location of the observing intelligence, or the perceiving individual. This would imply that the universe, in order that it may become an object of perception by the mind and the senses, should shed its inclusiveness, that is, its intrinsic nature. What would follow from this predicament is that whatever is observed by the individual is, then, not a universe but an abstraction of certain features from the original nature of the universe. But there is something which is interesting about all this. The attempt of the individual to look at the universe and then make any meaning or sense out of it would be like the attempt of one to study a part of a living organism, such as a human body, by segmenting it and wrenching it out from the organism of the body of which it is an integral and vitally involved part. That is to say, a part of an organism ceases to have any character of the organism, it is no more living, when it is placed out of the context of its vital involvement in the organism. All this would be tantamount to reducing the attempts of classical scientific projects and psychological systems based thereon to studies of a corpse in the endeavour to study a human being. </span></p>
+<p><span style="font-size: 12pt;">By way of a slight digression from the point at issue, it would be pertinent to mention here that, in fact, a human being cannot be studied objectively, since no living being can be considered as an object of externalised perception. It is possible to observe the body of a person or even, perhaps gather indications of the prevailing mental operations of the person concerned, but it would not be difficult to accept that the status or the value of a person is not exhausted by the anatomical or physiological structure of the person, or even the mental condition in any given situation. There is a sort of uniqueness, unity and indivisibility about living entities, and thus, it would be clear that a person is certainly more than what the body is or the present condition of the mind is. Then what is a person? What do we call a human being, if neither the physical body nor the transitions of mental process suggest anything at all about the true person? It would appear, then, that a person is more an outlook of consciousness, a centralisation of attitude, a force, an energy, than anything that could be perceived or conceived in an objectivised manner. </span></p>
+<p><span style="font-size: 12pt;">The above analysis of the human personality also suggests a wholeness about the person, a wholeness that precludes any attempt at a study of it by means which would convert it into an external object, that is, external to the mind, senses or the consciousness that studies it or even knows it. This non-exclusive and non-objective nature of the basic essence of a human being would, further, reject any effort to convert it into a means leading to some other end, inasmuch as the whole that it is would cease to be such, the moment it becomes an instrument to something else, for an instrument is a tendency moving and rising beyond itself, that is to say, it cannot be a whole. Whatever is an integrality or a wholeness cannot, then, be a means to any thing else. </span></p>
+<p><span style="font-size: 12pt;">The above study of the essential nature of things in general would bring out two important truths of life as a whole: One, the universe as an inclusiveness and a wholeness in itself cannot be encountered as an external object; two, a living being also, having the essential characteristic of wholeness, cannot be looked upon as an external object for purpose of study, experiment and observation. If all well-known processes of life in the world, whether scientific, psychological, social or political, require that the world and people in the world are invariably externally perceived and objectively conceived things, then, the natural conclusion is obvious: The entire life process is an erroneous operation of consciousness, and no one can know anything as it is in itself. The world of perception is an <em>appearance</em>, not a <em>reality</em>. </span></p>
+<p><span style="font-size: 12pt;">There is a necessary and insistent urge within everyone towards what is usually known as righteousness and justice. It would be hard to find any person in the world who would regard righteousness or justice as a mere appearance: This great requirement of life is always held to be a necessity and a reality. It is known to everyone that life would annihilate itself if it is bereft of the nobility that is attached to and the imperativeness involved in the ideal of righteousness and justice. But how could this be, if the available means of human knowledge and the conditions to which the human mind is subject reduce all life as it is lived to an appearance not related to reality. </span><br /> <br /><span style="font-size: 12pt;"> It would be impossible to be righteous or just, under the above analysis, unless and until the personal outlook and the empirical approach of the common life of the world rises above itself to a super-personal outlook and metempirical attitude which grasps life as a whole and a totality and ceases to look upon the world or the people in the world as objects of external perception. That is, in entertaining the spirit of righteousness and justice, neither the world nor people remain as outwardly located objects of perception, but integrally involved totalities, and no judgment of any kind would be righteous or justifiable unless the source of judgment stands above both itself and that which is judged. Judgment is a transcendent operation and not something pronounced by someone on someone else or something outside. Law is an operation which is inclusive and not merely a thought or a whim that is exclusive. Law is not a person; it is a field of operation in which are included both the person that dispenses law and the one in regard to whom it is so dispensed. This also applies to scientific observation, which, in order to be correct, should include and at once transcend the location and predicament of both the observer and the observed, the seer and the seen, the judge and what is judged. </span></p>
+<p><span style="font-size: 12pt;">In ancient India, great masters who conceived everything in a holistic attitude, regarded human life as a whole within the universe which is the largest dimension of wholeness. Every application or duty in life was envisaged as a movement of a lesser whole towards a larger whole, and not the movement of a fraction, since not even an isolated part, for all practical purposes, is without a self-identity in itself, a personal status it maintains, forming thereby a complete entity by itself. Not only this. Even the so-called individualised operations or activities are not fractions, but emanations of a wholesome character, and every thought, feeling or attitude is a whole by itself, since it is an emanation from the individual which is a whole. In this connection it would also be necessary to state that every organisation that a 'holistic' individual forms is also a whole, invested with a soul, keeping it intact, the soul meaning what acts as the cohesive force that keeps the organisation as an integrated entity, whether social, legal, national or international. While the human being as an individual is certainly a whole, a fact which needs no further explanation, a family of individuals is also a whole, without which feature the members of the family would get dismembered and the unit called the family would cease to exist. A community is an organisation of several families, a district an organisation of several communities, a province an organisation of several districts, the national state an organisation of several provinces, and the world set-up an organisation of the entire comity of nations. In each of these levels of the organisational procedure, right from the individual to the concept of a world state, a unity is maintained by each concerned level, each level has a soul of its own, each one forming a self-identical integrated individuality by itself and yet simultaneously forming a facet of the larger self of the next higher level of organisation, until a general universality of what we may call the cosmic organisation is attained as the state of utter perfection. </span></p>
+<p><span style="font-size: 12pt;">If we could carefully bear in mind the several implications of the above analysis of human situation in general, we would also realise that even the smallest of individual units, we may call them living or non-living, from the point of view of our observational capacity, and every movement, effort and attitude of such units, have in them potentially and implicitly the resources and powers, the facts and purposes, of the largest and highest organisation – the universe. If this is so, every individual is a whole, every organisation is a whole, and every impulse of every organisation, including the individual, is a wholesome endeavour to reach out to a wholesome experience in every way. This will explain why no one would tolerate oneself being regarded as an unimportant person, even second to someone, and every desire of everyone and everything is actually an asking for everything, inasmuch as what emanates from a whole cannot but be whole. </span></p>
+<p><span style="font-size: 12pt;">This vital fact was borne in mind by the ancient adepts in India, who brought about such a transformation in their outlook of life that they felt a necessity to introduce a system of living according to which the whole of life becomes a religious movement, a spiritual aspiration: Religion becomes all life. This system is embodied in the concept of what is known as the Purusharthas, namely, the aims of human existence. The fourfold concept, which includes the four facets of human longing, i.e., human desire, human aspiration, human enterprise, is an attempt to bring together into a single focus of attention the aspirations of the individual towards the totality of being. Life may be defined as a kind of reaction of the individual to the whole atmosphere and environment – an environment which is at once personal, physical, social and supernatural. All the aspects of life, which are the concerns of man, would then be regarded as logical needs to be transformed into the spiritual endeavour. Whatever be one's occupation in life, that becomes a spiritual movement, it gets transformed into a worship of the universal reality. This is so because religion, spirituality, is the encounter of the total individual in regard to the total cosmos. The whole of life gets thus harnessed into the spiritual enterprise. The Purusharthas, the aims of human life, are broadly classified in terms of a fourfold asking of the individual for a fourfold fulfilment of being: These are Artha (material need), Kama (emotional and aesthetic need), Dharma (the impulse for righteousness), and Moksha (the ultimate spiritual requirement of all things).</span></p>
+<div id="discText">
+<p><span style="font-size: 12pt;">The experience of a reaction in respect of the environment around which one seeks the fulfilment of one's material needs may be called the basic economic need of the person. Whatever is essential far physical existence, without which one cannot live a healthy and sensible life in the world, becomes an object (Artha) of life's pursuit, and to the extent of the pressure of the need felt, one's life becomes inseparable from it. Food, clothing and shelter are some of the ostensible forms which this pressure of life takes. And this urge towards material security, is also to be transformed into a spiritual discipline, since this urge has its ultimate purpose in maintaining the individual secure for a purpose higher than the individuality itself. Here is the spirituality hidden behind even the material necessities of life. Matter itself is the first rung in the ladder of the development of the spirit towards perfection. Spirit condenses into matter and matter rarefies itself into spirit. The universe is the face of the Absolute Spirit. There can be nothing unspiritual in a world animated by the universal consciousness. The word 'secular', if it means the 'unspiritual' cannot exist in the dictionary of creation. </span></p>
+<p><span style="font-size: 12pt;">But no one can be satisfied merely with bread, clothing and a house to live in. There are other longings of the individual engendered by the fact that everyone is an intricate complex of different layers of involvement, each one knit into the other inextricably. There is the love for beauty, a desire for emotional satisfaction, and a longing for aesthetic enjoyment. The voice of this impulse is as vehement and pressing as the call for material comfort. The attraction for fine arts, music and literature, is an outer form which this inward impulse for aesthetic experience takes in every person. One loves and expects love. The tragedies of personal and social life may be mostly attributed to absence of affection that one seems to be expecting from others and one's own inability to love anything at all. Frustration is the outcome of defeated love. Man's vital satisfactions and fulfilment of emotional needs also form part of the spiritual life, since this impulse, again, is an indication of the orderliness, symmetry, rhythm and proportion present in everything that is a whole and a completeness. The aesthetic impulse, the desire for the beautiful (Kama) is suggestive of any kind of love or longing for recognition and a fulfilment in feeling. The romantic impulse, as it is sometimes called, is the apotheosis of the aesthetic sense. As there is a necessity felt to keep one's physical body secure by means of the requisite material needs, there is a simultaneous urge to perpetuate the physical individuality through an endless continuity in the process of time, which is the final explanation of the impetuosity behind the sexual hunger of the individual. Infinity and eternity seem to be playing the fool in the individual acts of an endless material possession and insistent sexual longing. </span></p>
+<p><span style="font-size: 12pt;">The impulses have their visible expressions as well as hidden forms. There was, in India, no ban imposed on the natural fulfilment of desires, contrary to the dictates of certain over-austere religious attitudes which emphasise to a point of excess a mortification of the flesh, the starvation of desires, and a hibernation of one's normal impulses by forced repression. Though appearance is not reality and the bungling of consciousness in its material and aesthetic vehemences may be said to be far removed from the ultimate reality of life, all evolution has to be from the lower to the higher, from a lesser completion to a greater one, though we would prefer to designate the lesser ones as appearances of the higher reality. This is the beauty and the perfection, the spiritual significance, which the ancient masters envisaged in every individual attitude or movement, thus seeing and expecting everyone to see, the entire life in all its phases as a grand drama enacted by the Supreme Being in the Theatre of the Universe. This is the reason why even the ordinary daily occupations and instinctive impulses can become and should form raw materials for self-purification and an intelligent harnessing along the stages of the evolution of the spirit towards the Absolute. If God were not to call man, there would not have been desires in life. Every desire is some sort of a distorted shape of the response of man to God. A desire, while it is apparently directed towards the fulfilment of an objective satisfaction, actually arises from a need for universal experience. As everyone is placed in space and time, and the space-time complex manages to externalise even the universal, God Himself appears as an object of sense. What is everywhere looks as if it is in some place and only at some time. </span></p>
+<p><span style="font-size: 12pt;">However, the permission and concession given to desires to fulfil themselves, in the manner indicated, is to be conditioned by the great rule or law, called Dharma. If Dharma, the principle of the righteousness of the law, does not regulate the operation of desires, they cease to be aids in the movement of the spirit towards its perfection. Desires, which are like flowing rivers, get dammed up when they are bottled inside and not channelised in a systematic manner to irrigate life's wholesome involvements. Dharma is law, the regulative principle, which harmonises everything with everything else. The individual has to be a self-balanced purposiveness, integrated healthily, but not opposed to a similar need felt for self-completion and integration by the other levels of organisational procedure, namely, the family, the community, the society, the nation, and the world at large. Usually, there is an inherent urge in everyone to maintain one's own point of view even to the detriment of others, a form which desire takes when it is concentrated within the body and ignores the presence of other individuals or similar organisations. Dharma, or law, insists that desire can be fulfilled, and must be fulfilled, lest it should go amuck, but not to the disadvantage of others who also exist in the world and who too have a similar permission to fulfil their desires. There is no mutual contradiction involved in such a permission granted under the law, Rita, as the Veda would call such a universal sanction founded on perfect, impartial justice. "Do unto others as you would be done by others." "Do not do to others what you would not like to be done to yourself." For, if one wishes that everything should belong to oneself, everyone else also can entertain such a wish. Such a predicament would defeat the very purpose of the operation of any desire. Law is the principle of cooperation and sacrifice, as against competition and selfish arrogance. It is the concession which each one is expected to make in respect of everyone else, because creation, as could be seen from the above study, is a 'Kingdom of Ends', and not a restless flow of 'means' only without any 'end' to be reached. The Veda uses the word Satya for the law of the Absolute, and Rita is the very same law operating in creation as a regulative principle, an imperative, immanent in all things. Every law is a facet of the cosmic law which is rooted in the integrality of the universe. There is a necessity to introduce a system of coherence among the visible particulars, so that they form a harmonious whole, a hierarchy of completeness, and not a mess of jarring notes without any relation among themselves. Law exists, because the Absolute is, God rules all things. Law is the manner in which the indivisibility of the Absolute manifests itself through space and time. </span></p>
+<p><span style="font-size: 12pt;">The great regulative system of the administration of life, known as <em>Varna Ashrama Dharma</em>, sums up the way of a perfect life. While what we may call the horizontal integration of life by means of a blend of spiritual power, political power, economic power and man power in life is ensured by the intelligent mechanism of Varna Dharma, which is not a distinction of colour, but a mutually involved differentiation of each one's capacity to participate in the fulfilment of life, the vertical ascent in the qualitative wholeness of each person is patterned in the rule of the Ashrama Dharma, representing the stages of study, discipline, conservation of energy and continence; the ordained fulfilment of the material, social and emotional requirements of life; a gradual freedom from every kind of externally oriented involvement; and the final pursuit of absolute universality. The horizontal stratification was designed by the participating phases of cooperation known as Brahmana, Kshatriya, Vaisya and Sudra; the vertical discipline and gradual perfection of the person was laid down in the well-known stages of the Brahmacharin, Grihastha, Vanaprastha and Sannyasin. Neither is the Varna system a caste-oriented gradation of the superior and the inferior, nor the Ashrama pattern a social enactment. Both represent a spiritual necessity and the only way in which human society can exist and thrive in harmony, and the individual progress upward towards a gradual realisation of universality. There is no comparison in this system of stratification, but a necessary and just participation and healthy integration of social and personal life. India's culture never held that negation is the law of life; for it fulfilment is a state that has to be reached by working through the media of every disciplinary process, all which is equally important. The stages of evolution do not brook comparison. Each stage becomes as important as any other, when one finds oneself in it. Life is an inward attainment of oneself with a cosmic conditioning. The inwardness, being constituted of the different layers of personality, has to be taken into consideration in all its degrees when one attempts to live a life of perfection. The inwardness is of a graded form. There is no sudden contact of one level with the rest of reality, except through the necessary stages. The human individual is formed of several psychic vestures, each of which is to be treated well by paying its due, which is accomplished in the fourfold stratification of cooperation and the stages of life. Time is a movement towards eternity. </span></p>
+<p><span style="font-size: 12pt;">The perfection that is wholeness, which characterises every stage of evolution, is also to be equally active in the administrative, political and judicial field of human management. The question of management arises practically from the very level of the individual. Management does not necessarily mean a handling of relationship with other people. It is also a matter which concerns oneself. Self-management, or the proper handling of one's own self, will be found to be of primary importance even when considering one's relationship with other persons. The individual, as was observed, is also an organisation that needs to be managed. Any non-alignment of factors involved in personal management may land the person in a state of mental restlessness, whimsical behaviour, erratic conduct, and a bungling in the handling of any matter whatsoever. While human society is a group of human beings, it cannot be forgotten that it is human beings as individuals that constitute the society. There cannot be a factual qualitative superiority of a society whose constituent members do not possess in their own person the expected quality. But the very necessity felt to form a society, an administrative system, a government, or a judiciary should naturally be suggestive of an imperative involved in the outlook of anyone to exceed the narrow limits of a purely personal or individual concern and entertain an outlook which would not exclude from its purview the welfare or interest of any other person in the society. This is a specific requirement on the part of anyone who is placed at the helm of affairs in any organisation – social, political or judicial. The head of such an organisation, whether he is a king or a monarch, president, minister or judge, naturally requires a specialised form of education in being able to understand his relationship to the organisation of which he is the chief, a relationship which is not a particularised connection with individual members merely, but a superior relation to the spirit of the organisation, a welfare state, as one may designate it, which is not a person but a principle. From this it would also be clear that the head of such an organisation cannot look upon himself as a person, but the representation of a universalised principle which is the integrated welfare of the entire jurisdiction over which he has authority and responsibility. It would require some specific educational calibre and a stretch of some genius to realise that the head of a managemental system, social, political or judicial, is not a person, but a super-personal general principle. A judge in a court, for instance, does not only transcend the limitations of the clients of the cases, but transcends even himself as a person. The judge is neither anyone of the clients or advocates, nor the visible person seated on the chair. The judge is an embodied representation of law, which by itself is impersonal. Hence, the true judiciary is not visible to the eyes but can only be appreciated through reason which has a wider jurisdiction than any person or even all persons. It is in this sense that a ruler is often considered as a representation of divinity, a deity in himself. It is so because the ruler is a principle of wholeness which, in every one of its levels, enshrines perfection which is godliness, which is a name for the soul or the self-integrating principle in anything.</span></p>
+<div id="discText">
+<p><span style="font-size: 12pt;">The above consideration would also in a way enable one to answer the question as to whether the individual is for the State or the State is for the individual. The controversy seems to be finally unfounded, arisen due to a misconception of the relationship between the individual and the State. To bring the instance of the judiciary once again, the client, the lawyer and the judge form a single cooperative network in the act of bringing about legal and social balance in the jurisdiction of the people concerned, and the unit constitutes a whole, each member forming a necessary contributory part of the whole, and the whole in turn deciding the status of each of such participating parts. The individual exists for the State, because the individual, as a lesser whole, is a constitutive element in the larger whole which is the State. But the State exists for the individual, since the integral wholeness which is the State cannot afford to interfere with the progressive welfare of any of the lesser wholes, insofar as the lesser wholes do not contradict or clash with one another's welfare. So, both the views stand the test of tenability, for they are actually not two viewpoints but two phases of a single point of view, which is the consideration of the entire State as a final whole which is at once inclusive of all the lesser wholes within it forming its inner constituents. This also answers the other question sometimes raised, that both the State and the individual are equally important. The point, however, is that the two are not distinct entities at all. </span></p>
+<p><span style="font-size: 12pt;">The administrative and legal issues of life, while they essentially constitute an operation of positive and constructive remedying and equitable healing forces in the organisation, also involve a sometimes unavoidable factor known as punitive justice. Criminal laws engage themselves in this latter aspect of the management of human affairs and in the act known as punishment inflicted by law, the social welfare of the organism is supposed to be ensured. The positive side of legal justice mainly concerns itself with the distribution of property and the question of its ownership in society: the civil rights of the people. Though, even in an act of civil dispensation of justice, an element of punishment may be said to be involved, where, for example, a landed property wrongly appropriated by a person is wrenched out from him and handed over to its rightful owner, based on the principle of equity and welfare of the entire organism of administration; yet, in what is known specially criminal procedure, the punitive aspect puts on an accentuated form as a special kind of pain inflicted on the wrong-doer. It has been held even in a free state or a democracy, where private property is conceded, that all ownership is more a kind of trusteeship and the State can have the right, and has actually the right, to own the entire property under given conditions. In fact, private ownership cannot defy or contravene public welfare or the well-being of the State as a whole. All this means that no one exists for himself alone, but everyone exists for everyone else, also. Here comes into high relief the great spiritual significance of life operating powerfully even in political and judicial administration. </span></p>
+<p><span style="font-size: 12pt;">While the manner in which people are entrusted with civil rights or ownership of property has been seen to vary from country to country and from nation to nation, occasioned by local conditions of people and their mentality in the regions concerned, what strikes one's eye ostensibly is the peculiarity in the administration of criminal justice as understood and enacted by the different nations. What kind of punishment is to be meted out to what offence? Can the hand of a person who steals a pencil be amputated as a punishment equitable with the act of offence? Can a nation which forbids smoking, execute a person for committing that act under its jurisdiction? These are extreme cases which kick up basic questions of human justice, but there are others which are involved in the prejudices of the human mind. The steel frames within which are locked up, in India, the characteristics attributed to the classes of people called castes, Varnas, and the functions associated with the Ashramas in the personal life of an individual, as if they are water-tight compartments, iron cages, and not flowing streams joining the river of life, are also examples of the inveterate habit of human prejudice, ignorance and self-esteem, which raise similar questions of a thing called justice behind the rule of social law. In a region monogamy is holy and inviolable, in another polyandry is not only necessary but an act of sacred cooperation and sacrifice. One leader of the people exhorts the nation on the necessity for unconditional non-violence, but another concedes a proviso that violence is justifiable where self-defence is involved, or where one feels a need to protect the lives of people or guard the security of the nation. It needs no mention that the principle of unconditional non-violence considers that even death should be welcome if it follows as a consequence of adherence to non-violence. It follows also from this that one who does not hesitate to embrace death as an inevitable something, whatever be its causative factors, believes perhaps in a deathless immortality of a soul in man, and the welfare hereafter is a greater concern than a welfare in this world. This strange conclusion, though it is likely automatically to follow from a strict observance of unconditional non-violence, cannot be said to be the intention of the leader of a people, who would not deny the possibility of their earthly welfare, all which would only mean that there is a difficulty in reconciling the need for the welfare of people in the world and the necessity, to be adherents of unconditional non-violence. </span></p>
+<p><span style="font-size: 12pt;">The processes of the study of the principles of life considered in the above paragraphs should enable one to accept that justice is neither an affirmation nor a negation of life, but a harmony of conditions that should contribute towards the manifestation of circumstances which would enable lower organisations of reality to expand their dimensions and reach up to higher levels which are the <em>souls</em> of the lower ones. Nature does not go to extremes, nor are law and justice extremes of act and behaviour. The meaning of principles that transcend personalities is generally hard for the mind to grasp. As action and reaction are equal and opposite, because they are based on a unitary law of a balance maintained by the forces of Nature, the rights and privileges of people as may be conceded to them, or even the punishments that are supposed to be necessary, cannot, even in a state of enthusiasm, ignore the fundamental principles of righteousness and justice which demand that the spiritual expansion of the individual and the society has to be the criterion behind all judgments, whether rights and properties, privileges and concessions, or punishments and deprivations. It is not for nothing that great thinkers have often felt that only philosophers can be kings, and kings should be philosophers. It was Plata who proclaimed that until this condition of administration is fulfilled, the world is not going to have peace. There must be justice in conceding privileges to a person and justice in meting out punishment. The justice consists not only in the security and welfare ensured to people in general by that dispensation, but it also should, at the same time, ensure the betterment, welfare and progress of the particular individual concerned. Certainly, none but a god can be a just ruler (Navishnuh Prithivipatih). It has to be borne in mind, again, that the ruler is a principle of integration involving an element of universality in it, and not just a person among many others. </span></p>
+<p><span style="font-size: 12pt;">The philosophy and the rationale behind law, justice and jurisprudence would, then, raise the pertinent question: Is man prior to law or is law prior to man? This crucial difference of viewpoint in ultimate matters concerning life is virtually the point of distinction between the Contract Theory of State propounded by thinkers like Thomas Hobbes and the Logical Theory of State advocated by philosophers like G.W.F. Hegel, in the West. The Contract Theory holds that man was originally in a state of nature and was ruled by the law of the fish (the larger swallows the smaller) and the law of the jungle (might is right), and this could be naturally the height of any conceivable insecure condition of things. To obviate this sort of perpetual fear endangering the lives of everyone, people are said to have made an agreement among themselves and framed a system of laws and of governance, vesting the power of rule in a single person (monarchy) or a body of persons (oligarchy or bureaucracy) or an assembly of chosen ones by periodical election (democracy). Here the law of the society and of political government is considered as something created by man by mutual consent or agreement to suit the circumstances or conditions under which he lives at any given time. When the circumstances of life change, the laws also can be and have to be changed by mutual understanding and agreement. This would make it appear that there is no such thing as law unless man wills, individually or in a group, that it should be there. It is the creation of human needs and the environment of life. Law does not exist by itself. Man can do or undo it by a majority of votes (since it is unlikely that everyone would always consent to everything unanimously), and sometimes by the exercise of physical force even by a quantitative minority (as it has happened rarely in the history of the world, though unfortunately for the many in the majority) – a situation which implies that man makes laws either by understanding which would be to the satisfaction of many, or by physical force which can be to the sorrow of many. Anyway, according to this point of view of the origin of social law and political government, man is the law-maker, and this is the essence of the Theory of Contract in the science of Politics. From this it would also follow that even the sense of justice can turn out to be a whim oftentimes in the minds of the ruling powers, because it is hard for the dispensation of justice to stand isolated from the operation of law. On a close examination of the subject, the implications of the Contract Theory would seem to be inseparable from the psychological background of society presented by psychoanalysis. Man can be no better because he can make laws, for he can also unmake the very same laws by the same principles of contract which made them, and rational justice would be a word without any substantial meaning. </span></p>
+<p><span style="font-size: 12pt;">Though it may be conceded that the Contract Theory is perhaps the truth of the <em>historical</em> origin of human law and government, even this manner of the origin of law must have itself originated from a principle which ought to have a logical priority over the historical accident of the origin of law as propounded by the Contract Theory. Here we come to a subtle philosophical point which would not ordinarily occur to the mind of the common man. Why does there come about a necessity for man to frame a law at all by mutual consent? The answer to this question is the logical ground which explains the meaning of law and the necessity for law. The principle which is prior to the human effort of mutual agreement in respect of the framing of the law is itself the central law conditioning and regulating all the laws that man makes subsequently by agreement, election, etc. This is the point which Hegel endeavours to win over Hobbes. It cannot be that man is the sole maker of law; if that had been the case, it would be difficult to understand why at all man felt a need to make law. This need felt by him is the conditioning factor behind man-made laws, and is the main law, the universal law, which regulates temporal laws of the terrestrial State. If law arrests a person and inflicts on him punishment, it is not because of the operation of a man-made law merely (else, man could suddenly change his law and abolish such a thing as legal punishment), but the reaction set up by a wider law which is superior even to the totality of the individuals in society and the members in the State. And what is this law?</span></p>
+<div id="discText">
+<p><span style="font-size: 12pt;">Here we turn to the metaphysical background of law which also purports to be its logical explanation and justification. The relationship between man and man is not the outcome of some quixotic agreement but a rational necessity dictated by the structure of the universe. Human relationship cannot be made or unmade according to fancy, for it is rooted in a fixed pattern of structural behaviour which is harmonious with the nature of the universe as a whole as manifest in the various degrees or realms of its expression. The necessity for law arises on account of a need felt to rise and grow into a higher degree of reality than the one in which one finds oneself at a given moment. The growth into a higher order of reality is both quantitative and qualitative in a measure in which the two aspects cannot be distinguished one from the other. The higher degree of reality connotes and implies not only a wider inclusiveness of quantitative measure but also a deeper profundity of knowledge and wisdom and an insight into the nature of things. To give an example: Is not man more than a mere total or an assemblage of the different limbs of his body? All the parts of the body of a man, even when viewed together, cannot be regarded as the man himself, for what we mean by man is a. significant <em>meaning</em> or a transcendent <em>essence</em> vitalising and animating the body and the personality, rather than the body or the personality by itself. Man is a <em>significance</em>, a c<em>onnotation</em>, a <em>suggestiveness</em>, the state of an <em>integrated consciousness,</em> and not merely a physical body, a psychological unit or a social personality. </span></p>
+<p><span style="font-size: 12pt;">Even so is the concept of a nation, which is more a spirit than a sum or an assemblage of people and things. The meaning of this position can be appreciated if we consider for a while such phenomena as, for instance, large number of persons recruiting themselves as soldiers and even dying in a war waged in what is regarded as the interest or the welfare of the nation. Obviously, no one would ever believe that the nation for whose sake people are ready to sacrifice themselves is just the ground of the earth, mountains and rivers, for these do not require protection and they stand by themselves unconcerned with man's predicament. What seems to be in the mind of people, evidently, when they entertain the notion of the nation, is the group of people arranged into a conceptual network or pattern of wholeness governed by a uniform ideology, cultural aim or ultimate purpose. On this ground, the nation is inclusive of everyone, even the soldiers going for a battle. Even supposing that a large percentage of people as soldiers die in a battle waged in the interest of the nation, no one feels that a part of the nation is dead or that the nation is now alive only as seventy-five per cent or fifty per cent. The nation does not perish even if the majority of people cease to be for some reason, and this is so because the nation is not the person or the physical assembly of individual bodies. Even if fifty per cent of the limbs of the body of a person is to be amputated for medical reasons, the man remains still a whole and never feels that half of him has gone and that only half is alive. That the spirit is not the same as the letter, that the invisible is a greater reality than the visible, can easily be seen on a little in-depth examination of anything. </span></p>
+<p><span style="font-size: 12pt;">The ethical or what are known as moral laws, also, stand by this test of spirit ruling the letter, intention standing above routine or outer form. Else, how would one explain the universally acceptable law that no one can injure or harm another on any account and yet feel justified in maintaining defence forces to avert self-annihilation? Here is a subtlety which accepts human behaviour and conduct to be regulated not by the instinct of love and hate, but by obedience to the law of the spirit transcending the isolated instincts of individuals or even a group of individuals. Here is the principle of Ahimsa, or non-injury, thrown into the crucible of a test which can be broadly categorised as <em>utility</em>, <em>coherence</em>, or <em>self-realisation</em>. Though the meanings hidden behind these nomenclatures of behavioural and ethical operation seem to be outwardly different one from the other, there is an undercurrent of a common significance and a uniformity of meaning in all this operational attitudes. Though, sometimes, it appears that truth cannot go counter to its utility in life, the sense of utility cannot but maintain a coherence within its structure, inasmuch as the utility has to be a feature of the common welfare of everyone and cannot be just the favourable utility of someone to the detriment of others. Here, even the idea of utility has to be governed by the principle of coherence, which latter ensures security to people in general and does not convert utility into a picture of selfishness. But what is coherence, and what is its intention, what is the purpose? Here we are face to face with the question behind all questions. </span></p>
+<p><span style="font-size: 12pt;">There can be a justification in the necessity felt for the introduction of coherence among values of human utility for another reason altogether, which is neither just empirical utility nor mere logical coherence. And that is the demand for the <em>self</em>-<em>realisation</em> of Spirit. There is an inherent, unbending, unrelenting and eternally operative requirement in everyone to be in a state of <em>self-realisation</em>, which, in the purely physical personality, takes the form of an undividedness of feeling that one is what one is, and one cannot be other than what one is. This is the law of identity, namely, A is A, and A cannot be B. This strange persistent urge to maintain a conscious self-identity is the principle of self-realisation manifest in the lowest degree of reality, that is, the physical organism which lives and works with an intention and purpose. But, as observed above, the individual self-hood can maintain itself only precariously in the absence of its adjustment, adaptation, harmony and coherence with other people in the world, call them families, communities, or nations. These latter are the wider forms of the very same impulse for self-realisation as revealed in the world of space and time, but demanding self-identity at their own levels, and brooking no interference from anything outside that particular unit of selfhood, whatever be its degree of inclusiveness or expansiveness. There would be no necessity to dilate on this issue any further, since this appreciation of the way of things in general would automatically land itself in the recognition that a <em>Universal Selfhood</em> alone can explain and account for the very meaning of the life of anything, and it is its affirmation in graded forms of inclusiveness that goes by the name of law, righteousness or justice. </span></p>
+<p><span style="font-size: 12pt;">The above also explains why Nature and history never care for individuals, and even the strongest of empires and the greatest of men have been reduced to the dust of the earth. Not even the best of actors is allowed a continuous and unending performance in the drama of creation. There is a coming and going of things, as required by the change of scenes which constitute the beauty of the enactment. It is not the individual, whether in the form of a person, family, community or an empire, that is of any value to the universal justice, for, what is of value is the universal intention, the universal purpose – the largest universality of selfhood with no external interference or conditioning by way of limitation. Moral virtues and ethical codes relating to the norms of non-violence, truthfulness, continence, appropriation of property and permissiveness to enjoy security, do all finally hang on this final justification to be found in every one of their normative shapes in personal and social behaviour, namely, a healthy balancing of every order of reality, right from the level of the lowest individuality, as required by the necessity to grow by a gradual ascent through degrees, to the general selfhood of the universe. </span></p>
+<p><span style="font-size: 12pt;">The need for norms of any kind in one's behaviour arises due to the necessity to grant the same permission as given to oneself to other people also in the world. While everyone is to be granted the highest freedom, it loses its sense when such a freedom cannot be granted, at the same time, equally, to others also in the world. Unrestricted individual freedom granted to all would be another name for a tendency to the annihilation of all life – strange, that freedom can lead to destruction. But this is so because freedom is a universal principle and not an individual prerogative. The higher always justifies and can justify the lower, and the lower is not supposed to stand independently by itself. The aim of an action has to be justified. The reason behind the choosing of this aim has also to be justified. The means adopted to fulfil the aim is, again, to be justifiable. Finally, the consequence that may follow from the action should also be justifiable. And justice consists in the integral security of any order of reality. </span></p>
+<p><span style="font-size: 12pt;">Our duties, as well as character and conduct, are determined by the nature of the meaning that we are able to see in life, or, rather, the aim of life which is the ultimate objective towards the achievement of which every activity is directed. This would mean that the way in which one thinks, lives and acts, the manner of one's behaviour towards others, and ones relationship with the general atmosphere around, are all fixed by the pattern of the meaning discoverable in life – the final aim of life. Though it may appear that the ultimate goal towards which one is directing one's life is far remote somewhere in the future, it goes without saying that even the minimal step that one takes in any direction at the present moment is entirely governed by the law which is the stuff and substance of the ultimate purpose of all life. Law is, thus, an operation of the system of the Absolute in different evolutionary degrees of comprehensiveness and perfection, right from the revolution of an atom or the vibration of an electron to the ultimate causality of the universe. Personal needs, social laws and political systems of administration cannot, therefore, be separated from the requisitions necessitated by the very nature of the final unity of all things. It is this Universal Transcendent Principle that creates, sustains, rewards or punishes individual systems and organisations by its gradational actions and reactions. Here is also the explanation as to why individual systems strive for mutual love and cooperation, and at the same time, keep themselves ready with a knife hidden in their armpits. Life is a perpetual battle between the empirical and the transcendent, the external and the universal, time and eternity.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: verdana,geneva;">[Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society ]</span></p>
+<hr />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste"><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<![endif]--><span style="font-size: 12pt; line-height: 115%; font-family: 'Trebuchet MS','sans-serif';">Annaprashana</span></div>

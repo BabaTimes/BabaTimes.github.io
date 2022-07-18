@@ -1,0 +1,14 @@
+---
+layout: post
+title: Contribute
+joomla_id: 104
+joomla_url: contribute
+date: 2012-04-30 00:56:21.000000000 +00:00
+---
+<hr />
+<p><span style="font-family: trebuchet ms,geneva; font-size: 12pt; color: #800000;"><strong>Opportunities to support BabaTimes !</strong></span></p>
+<p><span style="font-family: trebuchet ms,geneva; font-size: 12pt;">Baba Times is a non-profit progressive resourceful information center for a wide variety of topics from Religion, Spirituality, Life &amp; Style, Entertainment etc.</span></p>
+<p><span style="font-family: trebuchet ms,geneva; font-size: 12pt;">Contact us to contribute donations, articles and patronize our e-commerce through our 'STORE' section.<br /></span></p>
+<p><span style="font-family: trebuchet ms,geneva; font-size: 12pt;"><strong>Contact: (New York Publishing Office)<br /></strong></span></p>
+<address><span style="font-family: trebuchet ms,geneva; font-size: 12pt;">The Baba Times</span></address><address><span style="font-family: trebuchet ms,geneva; font-size: 12pt;">thebabatimes@gmail.com</span></address><address><span style="font-family: trebuchet ms,geneva; font-size: 12pt;"><a target="_blank" href="http://www.babatimes.com">www.babatimes.com</a></span><hr /></address>
+<p>&nbsp;</p>

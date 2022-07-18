@@ -1,0 +1,109 @@
+---
+layout: post
+title: Lord Sri Krishna, the Majesty of the Almighty
+joomla_id: 347
+joomla_url: lord-sri-krishna-the-majesty-of-the-almighty-1
+date: 2012-04-30 00:56:21.000000000 +00:00
+---
+<hr />
+<h1><span style="font-size: 12pt; font-family: book antiqua,palatino;">Lord Sri Krishna, the Majesty of the Almighty by Swami Krishnananda</span></h1>
+<hr />
+<p>Created on Tuesday 6 August 2013 21:13</p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p><span style="font-size: 12pt;"><span style="background-color: #ffffff; color: #333333;"><span style="background-color: #808080; color: #ffffff;"><strong>READ MORE &gt;&gt;&gt;</strong></span></span></span><a href="http://www.swami-krishnananda.org/disc/disc_49.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Lord Sri Krishna, the Majesty of the Almighty</span></a></p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText2">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span>
+<div id="discText"><span itemprop="articleBody">
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Narayana and Nara, the great sages who are supposed to be performing eternal penance in the holy shrine of Badrikashrama (modern Badrinath), and who are the representations of Vishnu's presence on earth, are regarded to have taken birth as Krishna and Arjuna, respectively, for the redemption of the world from sin and evil. Krishna, who is considered to be the Purna-Avatara (full incarnation) of Vishnu or, according to some, of the Universal Narayana who transcends even Brahma, Vishnu and Siva, revealed himself in Mathura as the child of Vasudeva and Devaki. We need not go into details of the miraculous and dramatic events of his early life in Vrindavana, such as the spontaneous opening of the gates of the prison where Vasudeva and Devaki were confined; the ebbing of the River Yamuna when Vasudeva tried to cross it with the child Krishna; the destruction of Putana and other Asuras like Sakata, Trinavarta, Vatsa, Dhenuka, Baka, Agha, Pralamba, Kesi, Chanura and Kamsa at the hands of the boy Krishna; the release of the sons of Kubera from their curse due to which they were born as trees; his self-multiplication as thousands of cows, calves and cowherds in place of the real ones that were lost; the subjugation of the serpent Kaliya; the swallowing of the forest fire; the lifting of the Govardhana mountain and the humiliation of Indra; the bringing back of the dead sons of Sandipani; and several other incidents of this nature which revealed the divinity of Krishna even at an early age.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The most intriguing and significant incident in the early life of Krishna is what has been called the Rasalila or his love-dance with the Gopis of Vrindavana. Commentators have tried to interpret the romantic seeking of Krishna by the Gopis and his response to their search in a dalliance that surpasses understanding as the eternal quest of objects for the Universal Subject which is present in every one of them as their Atman, the seeking of the individual for the Absolute in an ecstasy of feeling that the intellect cannot measure or estimate, a rapture of love for God in which all rationality is hushed, and the divine reaction from the Supreme Atman in a revelation of multiple immanence or a universal Self-manifestation, a state of spiritual superconsciousness in which one forgets one's own personality and becomes conscious only of God's existence everywhere in an emotion of love which bursts the bubble of individuality, which, indeed, was the condition, of the Gopis. There was nothing of the human lust or physical passion in </span><nobr><a href="http://www.swami-krishnananda.org/disc/disc_49.html" class="FAtxtL" id="FALINK_1_0_0"><span style="font-size: 12pt; font-family: book antiqua,palatino;">the immortal</span></a></nobr><span style="font-size: 12pt; font-family: book antiqua,palatino;"> dance of Rasa, when especially the age of Krishna was only of a small boy who could not be expected to excite carnality in the minds of elderly women in such large numbers. Another interpretation regards this incident as an occasion when Krishna, though to physical perception he was a small boy, appeared as a charming young hero in the eyes of every Gopi, with everyone of whom he was individually present by a multitudinousness of form which he assumed in the majesty of the power of his Yoga. To a doubt expressed by Parikshit on this question, sage Suka gives an adequate answer. The Lord, Suka replies, appeared in human form to shower his grace on those who came in contact with him and to create devotion in those who listen to the greatness of his deeds and of his life. It is strange that the husbands of the Gopis never missed their wives, having had them, by the power of the Lord, always by their sides, even when the Rasa dance was going on. How, then, can human judgment of values be applicable here? Further, Suka prescribes a study of the Rasa chapters of the Bhagavata as a remedy for lust and a means to acquire self-control and mastery over all desires.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">While the early life of Krishna </span><nobr><a href="http://www.swami-krishnananda.org/disc/disc_49.html" class="FAtxtL" id="FALINK_3_0_2"><span style="font-size: 12pt; font-family: book antiqua,palatino;">stimulates</span></a></nobr><span style="font-size: 12pt; font-family: book antiqua,palatino;"> the tenderness of divine devotion and love for a spiritual union with God through <em>Madhurya Bhakti</em> or romantic aspiration and a silent melting of oneself in his sweetness, his later life opens an entirely new chapter in the book of human evolution, and stirs in one's mind <em>Aisvarya Bhakti</em> or devotion by an irresistible </span><nobr><a href="http://www.swami-krishnananda.org/disc/disc_49.html" class="FAtxtL" id="FALINK_2_0_1"><span style="font-size: 12pt; font-family: book antiqua,palatino;">attraction</span></a></nobr><span style="font-size: 12pt; font-family: book antiqua,palatino;"> for the glory of his power and knowledge.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Krishna closes his sportful life as a child and an adolescent with the destruction of Kamsa, and suddenly assumes a stern outlook of life and turns his attention to the work of freeing the world from all sources of wickedness. The first serious opponent whom Krishna had to meet was Jarasandha, king of Magadha, a worshipper of Rudra and a menace to all good and <em>Sattvika</em> natures. He attacked Mathura repeatedly and, after being harassed several times, Krishna and his elder brother Balarama determined to rout his forces, sparing his life alone to allow him opportunities for collecting larger forces, which were destined to be uprooted. It was here that Krishna assumed the weapons of Vishnu, which all descended from the heavens, together with a celestial chariot which he rode in war.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">With a view to the fulfilment of future purposes politically manoeuvred by him as the world's greatest statesman and spiritually ordained as the world's greatest Yogin, Krishna got constructed a mighty and gorgeous fortress at Dvaraka, in the western ocean, from where he began to rule the fortunes of people. The first question that arose in his mind was to enquire into the fate of the Pandava brothers, with which errand he sent Akrura to Hastinapura. His first meeting with the Pandavas was during the marriage of Draupadi in the palace of Drupada. After the marriage, Krishna offered them costly presents as a mark of respect. When Yudhisthira expressed his desire to perform the Rajasuya sacrifice, Krishna pointed out a great obstacle to it in Jarasandha and cleverly arranged to get rid of the latter through a private deal with Bhima. The occasion of the Rajasuya sacrifice of Yudhishthira became also the scene of the death of Sisupala whose head Krishna severed with his discus, Sudarsana. This event is the theme of a famous poem of that name by the poet Magha and the incident may be regarded as the background of the bigger and more complicated scenes of the Mahabharata war. In the celebration of this sacrifice Krishna is said to have allotted more honourable duties to other kings and reserved for himself the humbler service of washing the feet of the guests who came for the function and of removing the remains after the banquet served by Yudhishthira to all those who attended the sacrifice. It is here again that the divinity of Krishna was publicly announced by Bhishma, to which Sisupala took exception and with insolent words challenged Krishna for battle.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Krishna met the Pandavas now and then even while they were in exile, encouraging them with comforting words and promise of help to vanquish their foes and regain the kingdom. The incidents of Krishna's miraculous help to Draupadi in the form of unending clothes in the court of the Kauravas and his sudden appearance before her in the forest and demanding of her a little food by the acceptance of which he filled the stomachs of sage Durvasa and his large following of disciples are too well-known to need any description. On the completion of the period of exile by the Pandavas, Krishna arranged for a conference in the court of Virata to decide the question of taking up arms against the Kauravas. As a measure of intelligent statesmanship, Krishna, however, accepted to go for a mission of peace with the Kauravas, though he knew well that the mission was not going to serve its purpose. As he himself expressed in his talk with Yudhishthira, it was more a diplomatic move than a step that was really necessary or meaningful. Sanjaya's description of Krishna to king Dhritarashtra in his court is again a public proclamation of the divinity of Krishna. Krishna revealed his powers to the apprehensive Yudhishthira when he said that if the Kauravas attempted to do him any harm when he went to them for peace, he would not wait for the war to destroy them, but burn them down, single-handed, and relieve the burden of Yudhishthira. The mission of Krishna to the court of Dhritarashtra, his famous speech in the assembly and the stunning cosmic form which he showed before the Kauravas, mark a wondrous scene in the great drama.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The next scene is the delivery of the gospel of the Bhagavadgita at the commencement of the war. His going for Bhishma with the Chakra, his hypnotisation of the Kaurava forces by his looks, the confusion he caused in the minds of the opposing army by making everyone in the battlefield look like Krishna and Arjuna, his dexterous moves which assisted Arjuna in vanquishing the Samsaptakas, his intelligence which destroyed the invincible Bhagadatta, his Yogic power which worked in overcoming Jayadratha, his clever stratagem, again, which foiled the Sakti of Kama while simultaneously getting rid of the demoniacal Ghatotkacha, the way in which he saved the Pandavas from the Narayana-Astra of Asvatthama and invoked the help of Rudra himself in the war for the victory of Dharma in the cause of the Pandavas, the power which he exercised in vanquishing Kama's weapons sent against Arjuna and in the saving of the latter from being burnt while his chariot itself was reduced to ashes by the Astras of Bhishma and Drona, his common sense in the event of the killing of Duryodhana, and the mysterious instructions of his which saved the Pandavas from being destroyed by the icy hands of Asvatthama, his succour of the child in the womb of Uttara, his great understanding which saved Bhima from being crushed at the embrace of Dhritarashtra, are all highly interesting and instructive episodes described in the Mahabharata. He showed his cosmic form four times in his life – firstly to his mother Yasoda, secondly in the court of the Kauravas, thirdly to Arjuna on the eve of the war, and fourthly to sage Uttanka. The prayers offered by Kunti and Bhishma to Krishna, as recorded in the Bhagavata and the Mahabharata, are magnificent not merely as forms of literary force, but also as specimens of the glorification of God in his Avatara as Krishna.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">There are many other incidents in the personal life of Krishna mentioned in the Harivamsa, Vishnu Purana and Bhagavata which inspire one spiritually and provide a stimulating reading in the biography of one who demonstrated to the world the character of all-round perfection. The birth of Krishna is celebrated on the eighth day of the dark half of the month of Bhadrapada (August-September) every year.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The purpose of the Krishna-Avatara was not only to destroy unrighteousness but also to reveal to the world the glory and greatness of God. In the well adjusted integral conduct of the life of Krishna is manifest the majesty of the Almighty.</span></p>
+</span></div>
+</div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: verdana,geneva;">[Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society ]</span></p>
+<hr />
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste">
+<h1>The Gospel of the Bhagavadgita</h1>
+</div>

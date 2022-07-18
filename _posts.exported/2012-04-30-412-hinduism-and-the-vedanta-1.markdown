@@ -1,0 +1,157 @@
+---
+layout: post
+title: Hinduism and the Vedanta
+joomla_id: 412
+joomla_url: hinduism-and-the-vedanta-1
+date: 2012-04-30 00:56:21.000000000 +00:00
+---
+<h1 itemprop="name"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Hinduism and the Vedanta by Swami Krishnananda</span></h1>
+<hr />
+<p>Created on Friday 6 December 2013 19:38</p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p><span style="font-size: 12pt;"><span style="background-color: #ffffff; color: #333333;"><span style="background-color: #808080; color: #ffffff;"><strong>READ MORE &gt;&gt;&gt;</strong></span></span></span><a href="http://www.swami-krishnananda.org/disc/disc_102.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_93.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_199.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_145.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Hinduism and the Vedanta</span></a></p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText2">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span>
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="articleBody">
+<h4><span style="font-size: 12pt; font-family: book antiqua,palatino;">I</span></h4>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The word ‘Hindu’ is of foreign <span id="qv9ty61h_5" class="qv9ty61h">origin</span>. It has no association with the principles which are psychologically compounded by habit and tradition with what one vaguely feels when the word ‘Hindu’ is uttered. The history behind this word seems to go back to the time when the Greeks and the Persians came to India, maybe somewhere around the time when Alexander, king of Macedon, invaded India. The barrier which these people from outside India had to cross was the river <span id="qv9ty61h_4" class="qv9ty61h">Sindhu</span>, which today goes by the name of Indus. The letter ‘S’ gets transformed into ‘H’ when it passes through the Persian tongue, and into ‘I’ in the Greek tongue. The word ‘Sindhu’, which is actually the name of the river, got somehow associated with the very people who lived across the river, and ‘Sindhu’, dropping the letter ‘S’, got converted into the word ‘Hindu’, and further on into the word ‘Ind’ in Greek. Thus, even the word ‘India’ has its roots in the word ‘Sindhu’. From this one can gather how both the words, ‘Hindu’ and ‘India’, do not have any real connection with either the beliefs and faiths of the people so called or even the original name of the country itself. The country is traditionally known as ‘Bharatavarsha’ or, simply, ‘Bharata’. This is something about the name itself. </span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Now, what does one really mean by the word ‘Hindu’, whatever be its origin? To state simply and plainly, it would mean a person who follows or lives according to the canons and principles of the religion known as ‘<span id="qv9ty61h_2" class="qv9ty61h">Hinduism</span>’. But this would raise the question, "What is Hinduism?"</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Many definitions have been given by stalwarts like Lokamanya Tilak, and such leaders of Hinduism. The area which the religion called Hinduism covers is so large that it is not easy to give an off-hand definition of it at one stroke, as any such attempt is likely to carry with it a flaw of inadequate characterisation. However, broadly <span id="qv9ty61h_6" class="qv9ty61h">speaking</span>, a Hindu is one who holds and lives according to some of the following essential principles:</span></p>
+<ul>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that the ultimate reality of the universe is one and not more than one</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that the nature of this reality is spiritual in the sense of Intelligence or Consciousness</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that therefore this reality is Universal, Omnipresent, and hence at once Omniscient and Omnipotent</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that creation is a veritable Body of this All-pervading Almighty Omnipresence</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that the relationship between this reality, which is called God, and the created universe is intrinsic, organic and vital, and not external or mechanistic</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that there are several planes in this creation, broadly classified into fourteen realms known as ‘Lokas’, all which are inhabited by different categories of beings, right from the lowest level of the physical elements up to the Region of the Creator Himself</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that in the sense stated above, the whole universe and all beings are vehicles of divinity and radiant with the immanent Godhead, all potentially having the birthright of attaining union with the Supreme Almighty through gradual evolution</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that the human being is one such created species among the many others which are said to run to 84 lakhs in number</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that man, thus, occupies a stage in the process of a still higher ascent and he is not the end of creation or evolution</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that human life is to be organised by the integrating principles of Dharma (moral value), Artha (material value), Kama (vital value) and Moksha (spiritual value), the last one mentioned being in fact the infinite value of existence</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that society is also to be brought into a united force of hierarchy through mutual cooperation by the application of what is known as Varnasrama-Dharma, which means the arrangement of society into the classes of spiritual power, political power, economic power and man-power, known usually as Brahmana, Kshatriya, Vaisya and Sudra, and the order of life into the levels of education, the performance of the duties of life, withdrawal from personal attachments and attainment of spiritual illumination, which stages go usually by the names of Brahmacharya, Garhasthya, Vanaprastha and Sannyasa</span></li>
+<li><span style="font-size: 12pt; font-family: book antiqua,palatino;">that every faith, cult, creed, belief, religion or outlook represents a facet or phase of the evolving consciousness in the process of the universe, thus transforming life in the world, nay, life in the universe itself into a wide family of internally related and mutually co-operating members who have all a system of obligations and duties, excluding nothing but including everything, finally with the purpose of universal spiritual realisation.</span></li>
+</ul>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">There is no necessity to go into further elaborate details of what the word ‘Hinduism’ may suggest, because it would be clear that what is stated above would be enough to provide necessary guidelines to draw the requisite conclusions in matters of detail.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">However, it has to be added that the religion known as Hinduism accepts the supernatural origin and final authority of the Word of the Veda, which consists of the Samhitas, the Brahmanas, the Aranyakas and the <span id="qv9ty61h_3" class="qv9ty61h">Upanishads</span>. Hinduism also accepts the validity of the ethical and legal codes known as the Smritis, the Epics of the Ramayana and the Mahabharata, the Puranas, the Agamas and Tantras, and also the six schools of philosophy known as Nyaya, Vaiseshika, Samkhya, Yoga, Mimamsa and Vedanta. The word ‘Vedanta’ suggests and includes also its variations known as the Advaita, Visishta-advaita, Dvaita, Dvaita-advaita, Suddha-advaita, and Achintya-bheda-abheda. It also includes the religious doctrines of the different schools of Vaishnavism, Saivism and Saktaism. Hinduism accepts and provides for the worship of the accepted Divinities of Brahma, Vishnu, Siva, Ganesa, Durga, Lakshmi, Sarasvati, Surya and Skanda among many others which are all included in the all-embracing pantheon.</span></p>
+<h4><span style="font-size: 12pt; font-family: book antiqua,palatino;">II</span></h4>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">At the time of death, the individuality does not get dissolved, though the physical constituents may be separated and dissolved. What is it that takes rebirth? It cannot be the body, because it is discarded and it is dissolved into the physical elements of which it is composed. It cannot also be the essential Self, the Atman, because the Atman is a Universal Presence which cannot be said to be subject to transformation of any kind, such as transmigration. What else transmigrates?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The peculiar thing called the individual is neither the body nor the Atman. It is a strange admixture of localised self-affirmation in terms of space and time, and this principle of self-affirmation is impossible to define except as a peculiar pressure-point or force which is generated by the influence of space-time upon consciousness which by itself is indivisible. This point of pressure spatio-temporally occasioned is in fact the centre of what is known as the psyche, often called the mind, sometimes known as the Chitta or the Antahkarana in the Sanskrit language.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">This pressure of consciousness causing the individual self-sense may be broadly understood as having three levels of empirical expression, viz., the conscious, the subconscious and the unconscious. Only the conscious level operates when a person is awake, the sub-conscious operates in dream, and the unconscious in deep sleep. The conscious impulses and activities of the individual are limited expressions of the desires which seek to fulfil themselves by way of contact with sense-objects. When the pressure of desires is too much and they cannot be easily fulfilled under conditions prevailing in the waking state, they operate as reveries in dream as a sort of satisfaction of strong impulses incapable of operation during waking state. But the desires of an individual are so immense and complicated that their satisfaction cannot be really achieved in a single life. Such unfulfilled longings get wound up in unconscious states, a specimen of which is deep sleep. It is the power of unfulfilled desires that acts like a projectile and drives like a rocket this complex known as the individual pressure-point in the direction of manufacturing a new apparatus for their fulfilment, under expected conditions, this new apparatus being called the newly formed body. Here is the interesting background of what is known as rebirth.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">As a realised soul has no desires, it has no rebirth. Hence the passing of an ordinary person and the disappearance of a person like Lord Krishna have nothing in common. The energies which are elemental that go to contribute to the formation of a new body in the case of an individual with unfulfilled desires do not operate in the case of a realised soul, because rebirth is caused by the magnetic pull exerted by the desiring centre of consciousness upon the physical elements and the forces of nature outside. Such a desire being absent in realised souls, they have no rebirth. They merge into Universal Being. The legacy which acts as the link between the here and the hereafter is desire, which causes reincarnation. The legacy so-called is a mysterious admixture of consciousness and desire, which is the causative factor behind rebirth. It is neither the physical body formed of the five elements, nor the Atman which is all-pervading. It is not true that in death the apparatus through which thinking and feeling act is destroyed; it continues in spite of the body being destroyed. The screen of the television which projects the picture of individuality is the point of consciousness-desire, explained above, and it is not destroyed when the body is destroyed. In a way, our waking life is also a reflection of some anterior existence, which we do not remember now, since we are now in this world in a different space-time continuum, totally different from the space-time complex of the previous life. It has to be reiterated that death does not destroy the link between this life and the other life, because death is only of the physical body, and everyone knows well that a person is not exhausted by the physical frame only. There is something more in man than what appears to the eyes or to any sense-organ.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The modern theory of evolution from matter to plant, plant to life, life to mind and from mind to intellect is nothing but a corroboration of there being a continuous link from one state of life to another. Else, there would be no evolution and there would be no meaning in any form of ‘related’ life at all. All this requires deep study, and a mere cursory reading of one or two textbooks may not be adequate. The principle involves vast areas beyond the ken of the studies provided in our modern colleges and universities.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The principle of karma, or the principle of reaction which conditions the notions of good and bad etc., is not supposed to apply to the sub-human species since they do not have the self-consciousness of personal agency in action and are just guided by the natural forces of evolution. Nemesis cannot be attributed to an individual as long as it is free from personal agency in action. The sub-human species evolve in the same way as there is rise of life from matter to the vegetable kingdom, etc., as mentioned. This is not caused by karma, but by the very pressure of universal evolution.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">If there is no transcendent meaning of the human being beyond the present life, no one would lift a finger or do anything in this life unless he is an idiot of the first water, knowing well that the next moment death may overtake anyone and no one can be sure that one can be alive after a few minutes more. Who, on earth, will try to do anything in this world if the next moment is uncertain, unless it is to be accounted for by an unconscious pull of the transcendent ‘Beyond’ which speaks in a language of ‘Eternity’ that there is life further to this medley of uncertainties, anxieties and insecurities here on earth? The point that man is to be restrained from undesirable behaviour and action can have meaning only if there is something more than the meaning seen in earthly life. Else, what is the point of being good or exhibiting good behaviour? Why should there be morality, why should there be anything at all, since everything is going to be devoured by death the next moment?</span></p>
+<h3 itemprop="name"><span style="font-size: 12pt; font-family: book antiqua,palatino;"> <strong>III</strong></span></h3>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Advaita Vedanta does not naively say that Brahman is real or that the world of dualities is unreal. To attribute this sort of statement to the system would be something like calling the dog a bad name in order to hang it. The sense in which the doctrine asserts the absoluteness of Brahman would also explain the sense in which its relation to the world of experience is to be understood. My feeling is, this doubt arises due to a superficial reading of the philosophical problem involved, just either by hearsay or reading some titbits here and there, without going into the profundities of the subject.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The Advaita Vedanta does not hang on Sruti alone, though it has no reason to doubt the validity of the word of the Sruti. Firstly, take the question concerning the Sruti: The statement that Brahman is the cause of the Veda is not to be understood as if the Veda is an effect proceeding from Brahman as the cause, in which case the Veda would be non-eternal. What this position actually means is that the Veda is to be understood as an embodiment of eternal principles or truths, and here what is to be considered as eternal is the principle involved and not necessarily the way in which it is embodied in word or language. For instance, to give an example, that two and two make four can be taken as a permanent principle which cannot be changed, but the language in which it is expressed or the purpose for which it is applied need not be taken as equally permanent; because the same truth can be expressed differently in different languages and may be applied for variegated purposes. Also, Brahman does not cause the Veda as a potter causes the pot or a carpenter causes the table. Here causation is to be understood in a highly metaphysical sense, and not in an empirical way. The very fact of the existence of Brahman implies the existence of the eternal principles mentioned, even as, we may say, the fact of the existence of a three-dimensional universe implies the validity of the principles of mathematics. We cannot say that mathematics is caused by the three-dimensional world, so that mathematics would be a non-eternal fact. On the other hand, the fact of the validity of mathematics is a logical consequence of the three-dimensional world of space and time, and a logical deduction does not become non-eternal merely because it proceeds from a premise. The premise is in a way the cause of the deduction in a logical process of implication, but the implication does not become non-eternal because it is inseparable from the fact of the premise. Thus, the causation of Brahman in respect of the Veda does not in any way mean the non-eternality of the Veda, if we are careful to see that causation here is understood logically and not empirically in the sense of something proceeding from something else as if the one is different from the other.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Further, it is sometimes suggested that even the word of the Veda is eternal, even as an embodiment of eternal principles. This, again, is to be understood in its proper spirit. We may explain this position thus. Though the expression of a fact in a particular language may be considered as non-eternal, in the sense that it is finite because of its differentiation from other languages, yet the fact of it being possible to express a thing in that particular way should be considered as a permanent possibility, and here the word assumes a sort of eternality, Parinaminityatva, to put it in the language of Acharya Sankara, though not Kutasthanityatva as is the nature of Brahman itself. No one can say that the English language, for instance, is an eternal fact. Yet, no one can also deny the possibility of expressing a fact in that mode of language at any time or claim that the possibility can ever be absent and be non-eternal. I hope you catch the point of this interesting feature.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">When Acharya Sankara says that the Veda itself is unreal from the Paramarthika point of view, the same is to be understood in the sense of nothing being eternal except Brahman, and even the Veda cannot be eternal if it is to be understood as something other than Brahman, for there cannot be two infinities or two eternalities.&nbsp; Here you will notice that the two apparently contradictory statements of Acharya Sankara are really not contradictory, for they have to be understood from two different points of view or angles of vision, from which position the statements are made.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The problem of free will and determinism can also be explained by a homely example afforded by the science of psychoanalysis, to give only one instance as to how it can be explained. The patient is made think in a particular manner by the determined will of the psychoanalyst, but patient always feels that he or she is having out of complete freedom of choice, notwithstanding the determinism of the will of the physician that is at the back of it. Perhaps you remember the interesting statement of Spinoza that a stone which is thrown into the sky by someone may feel that it is moving up of its own choice, if only it had consciousness of its movement. We feel that we eat a particular diet out of our free will and nobody compels us to eat such and such a thing, though it is well known that the choice of diet is determined by the physiological condition of the person; so where is free will here? Swami Vidyaranya, in his Panchadasi, says that free will is the way in which the omnipresent will of the Absolute (or you may say, Isvara) operates through the individuality of a created being. Here, again, it is a question of viewpoint or standpoint. The consciousness of agency in action is what is known as free will, though this consciousness itself may be impelled by a law that is operating in the universe. So, where is the contradiction between determinism and free will? Man will not be held responsible for his acts if he is conscious from the bottom of his heart that the universal law is operating through him, but he will certainly be responsible for what he does if he knows that he exists as an individual and therefore actions proceed from him and not from the universal reality. No one can do wrong unless this doing proceeds from individual consciousness which contradicts the fact of its being determined by another. Thus, there is a mix-up of arguments here, when doubts are raised as to how man can do wrong if he is determined. The doubt arises from a fallacious argument.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The problem of evil, again, is an old, hackneyed theme, which has been explained by masters of thought already. It exists in the world even as illness exists in a human organism. But do you believe that illness really exists in a person unless there is a maladjustment of the parts of the organism? The evil does not exist except as a condition of operation, and it is not to be understood as a thing hanging over us from somewhere outside. All this difficulty arises due to an anthropomorphic conception of God as somebody sitting in heaven and controlling the destiny of the universe. If God is understood as universal Omnipresence or Absolute Being, the very question of evil will be a self-contradiction, because that would imply the finitude of God. Here, again, the flaw in the argument that raises such questions can be seen.</span></p>
+</span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 12pt; font-family: verdana,geneva;">[Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society ]</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr />
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste">
+<h1>The Gospel of the Bhagavadgita</h1>
+</div>

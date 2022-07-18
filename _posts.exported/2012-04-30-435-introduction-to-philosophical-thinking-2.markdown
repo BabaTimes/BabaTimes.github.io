@@ -1,0 +1,128 @@
+---
+layout: post
+title: Introduction to Philosophical Thinking
+joomla_id: 435
+joomla_url: introduction-to-philosophical-thinking-2
+date: 2012-04-30 00:56:21.000000000 +00:00
+---
+<h1 itemprop="name"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Introduction to Philosophical Thinking by Swami Krishnananda</span></h1>
+<hr />
+<p>Created on Thursday 23 January 2014 16:02</p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p><span style="font-size: 12pt;"><span style="background-color: #ffffff; color: #333333;"><span style="background-color: #808080; color: #ffffff;"><strong>READ MORE &gt;&gt;&gt;</strong></span></span></span><a href="http://www.swami-krishnananda.org/disc/disc_102.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_93.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_199.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_200.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Introduction to Philosophical Thinking</span></a></p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText2">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span>
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">In ancient times, both in the East and the West, the impulse towards philosophic enquiry arose out of the perception of the wonder of creation. We look at the sky above, the sun, the moon and the stars, all which defy our understanding. We are under the impression that we are seated on this Earth. Actually we are all now moving in a spaceship, which we have not thought of during our day-to-day life. We know the planet Earth is rattling around in empty space; that is why I said we are in a veritable spaceship just now. We are in the middle of space.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Is it not a wonderful thing to think? We are not on this Earth sitting cozily on a solid surface, as if we are stationary, and everything is moving for our wonderment and perception of mystery. The structure of this creative, or creational, phenomenon really passes understanding. What precision in the working of nature! What system! What beauty, and what breathtaking profundity it is, if we are only able find time to think over these matters. What are these stars? How are they hanging in space? Why does not the sun fall on our head, when it has no support? And nothing seems to have a support anywhere in this world; everything is moving. But the movement is not helter-skelter; it is methodical, harmonious, systematic beautiful. Utter mathematical precision is the way we can describe this wonder of what we call this creation.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">It is necessary for us to find a little time to think like this. Look at the sky. Where is the sky? We are in the sky. Why should we look up to the sky, as if the sky is above us? We are in the sky, in the middle of empty space. What do we feel when we hear all these things, knowing that we are moving perpetually, rapidly through space, as if we are on a pilgrimage around empty space? For a moment our breath will stop. &nbsp;</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">There is nothing stationary in this world, which we will observe by carefully noticing what is happening in nature. Nothing is stationary, right from the atom to the galaxies. There is movement and movement and movement, but movement towards what? There cannot be movement without a direction. Towards what are we moving? We may think, like children, that the movement is linear, as if there is a beaten track, a road leading to Delhi. It is not like that; it is not movement in a straight line. If it is not that kind of movement, what other kind of movement can we conceive in our mind?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">By a careful investigation into the nature of things, two great wonders are observed: the impossibility of understanding what all this around us is, and the impossibility to know how we are alive at all. We go to bed and fall asleep; everything is silenced. But the heart does not sleep, and the breath does not sleep. Why do they not sleep, if we are sleeping? Have we any say in this matter? We are free birds. We are all independent persons. We ask for freedom. We are not bound to anything; we are totally free. But what kind of freedom are we exercising in the operation of our lungs, our heart, or our brain? Are we contributing anything as an individual to the function of this magic structure of the psychophysical organism? Have we thought about this matter? These considerations lead to a deep questioning spirit into the realm of what we generally call philosophy.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">As I mentioned, in ancient times wonderment was the beginning of this enquiring spirit. It was so in Greece, and in India. There must be something which is controlling this mathematically precise activity of the universe. We cannot say anything is unintelligent or dead. Everything is perfect, utterly clear. The movement of the planets and the stellar system is so wonderfully precise that we can predict today if an eclipse is going to take place one hundred years afterwards. What kind of arrangement is this? From a theorem, we come to a corollary. From a basic proposition, we come to a conclusion. We may call it mathematics; we may call it logic. How can we know that one hundred or two hundred years ahead there will be an eclipse of the moon or the sun? It is the wonder of mathematics, which is the brother or alter ego of physics, including astrophysics.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Who is responsible for all this wonderment, inside as well as outside? Have we, as persons, individually contributed anything to this wonder? We seem to be helpless cogs in the wonderful movement of the wheel of this clock of creation. Our self-assertion that we are very important persons in this creational panorama gets subdued a little bit. Our ego is slowly tending towards extinguishing itself before the might and the magnificence of creation.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">There are two kinds of wonder: one is the wonder of beauty, the other is the wonder of sublimity. If we look at the full moon on a clear sky, and go on looking at this beautiful moon, we will not like to take our eyes away from it – round, soft, beaming with nectarine rays. How beautiful! And how beautiful is a blossoming rose! This is a small example of our feeling towards beauty. Our aesthetic sense is roused by the perception of what we regard as beautiful. Why a thing looks beautiful is a different subject that we shall look into a little later.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Apart from the perception of beauty, there is also the perception of sublimity. If we see a huge elephant standing on the road, we would like to go on looking at it again and again. Why are we looking at it? It is not going to give us anything. But we would not like to take our eyes away from that elephant. When we go to the shore of the ocean where mighty waves are dashing, we are fear-struck, wonderstruck, awestruck at the magnificence of the ocean, which terrifies us and puts our ego down. We look so small before the mighty waves of the tremendous incomparable mass of ocean. We also look small before the elephant; we cannot go near it. Why do we admire the elephant? Because the mightier and larger is the compass of what we see, the smaller is our ego at that time. The lesser is the feeling of our self-assertive nature, the greater is our appreciation of the sublimity of anything. The greater is our self-assertion and egoism, the less we know anything of the world.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">In the perception of beauty, we lose ourselves for the time being in a kind of attunement, as if we are embracing it, making it our own, and our other-than-beautiful personality is imbued with that which we call beautiful. If we ourselves are as equally beautiful as that which we are looking at as beautiful, we will not enjoy that beauty. There is something lacking in us, which is compensated by that object which we regard as beautiful. What is lacking in us?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Beauty is an aesthetic completion of our personality in a type of perception which is unique by itself. It is sublimity, as I mentioned earlier. We wonder at the perception of a beautiful thing, and our wonder is such that we cannot say anything about it. Whether it is a wondrous architectural presentation, a beautiful sculpture, a marvellous painting of Michelangelo or Ravi Varma,&nbsp; wondrous music, great literature such as that of Shakespeare or Milton, or the Mahabharata or Ramayana, we are taken out of ourselves; we become something more than, other than, ourselves. Architecture, sculpture, painting, drawing, music, literature are forms of aesthetic beauty. We go on looking at it again and again, and we are not tired of seeing it. The lover likes the beloved; the beloved likes the lover. There is no meaning behind it, because it transcends meaning. Here logic and equation will not work, because finally the world does not seem to be made out of mathematics and logic. It is a super-mathematical and super-logical presentation before us, and the only word we can use to explain this situation is wonder, wonder, wonder!</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Then from where has all this come? Here philosophic enquiry commences. This is how ancient philosophy started. But in modern times, scepticism and doubt seem to be the beginning of philosophical enquiry. A scientist does not take anything for granted. Things may not be as they appear. It may not be like this; it may be otherwise. It is doubtful our perceptions are really genuine or valid. Science advances because the earlier discoveries are set aside by newer discoveries, and so what was considered as a final statement earlier is now considered as redundant. Then where do we end with this kind of advance in scientific understanding?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">We doubt everything. “What I am thinking now also may not be free from a doubtful involvement. The world may not be in front of me, really speaking. I may be under an illusion. I may not be thinking correctly. Some genie might have entered my brain and may be compelling me, propelling me to think in an entirely wrong way. I might be having a topsy-turvy perception. Nothing is certain, everything is doubtful.” One philosopher went along this line of investigation: ”The world may not be there. What is the proof that the world is there? I myself may not be there. How can I prove that I am here? Let me doubt the world. Let me doubt people around me. Let me doubt myself also.” We cut the ground under our own feet, and we cannot stand anywhere. Scepticism begins its argument in this manner. But it many a time loses its manoeuvring, direction and steering, and does not know what it is saying. If our statement is doubtful, the fact that it appears to be doubtful also may be doubtful. What are we saying?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">This question arose in the mind of a great thinker in the West called Rene Descartes. He thought, “I am somehow thinking. Who is thinking?” His great dictum was ‘<em>cogito ergo sum</em>’: I think; therefore, I am. He made a mistake in this statement. We ‘are’ not because we think; we think because we exist. It is the other way round. If we are not there, the thinking will not be there. Why do we say, “I think; therefore, I am?” We should say, “I am; therefore, I think.” This is a point which is scored by the Eastern thought over this kind of Western thinking.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Doubt cannot doubt itself. The doubter has to be there in order that doubts may be valid and, therefore, the doubter’s existence cannot be doubted. Let us accept that the doubter is there, else doubt cannot be there. We are not going mad that we wish to cut the branch on which we are sitting, cut off our thought itself, and endeavour to cut off ourselves also. Such a thing is not possible. Wisdom was there behind this sceptical approach. I have to be there in order to doubt.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">But what kind of ‘I’ is there? I think; that means to say, I am conscious. There is no such thing as unconscious feeling of one’s own existence. The feeling of one’s existence is a conscious affirmation of being. So, ‘I am’, because if ‘I am not’, my investigations and my doubts also vanish simultaneously. So, I have to be. But what kind of ‘I am’? Where am I? If I separate all accretions involved in this consciousness of ‘I am’, and keep only the bare principle of ‘I am’, there will be nothing left except a pure feeling and awareness of my being: I am conscious that I am. We cannot say anything else about anything else, because we have already set aside the validity of there being anything outside the consciousness of our being.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Let me go deeper into this question. I am conscious that I am. Generally, in studies of psychology and epistemology, consciousness is defined as that which is conscious of something other than itself. There must be something of which consciousness should be conscious. Otherwise, where is the meaning of consciousness? What are we conscious of? There is an object of consciousness. This is how we generally think in ordinary parlance. But here, the object has gone; it is questionable whether it is there or it is not there. The only doubtless thing is that ‘I am’, and this ‘I am’ cannot be anything else but a feeling which is identical with awareness, consciousness. A startling conclusion!</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Who am I? Very hesitatingly, we say we seem to be only consciousness of being. Where is this consciousness sitting? Has it any location? Abruptly, glibly like a little child, we will answer due to the affirmation of this physical body: “That consciousness is within me.” How can it be within anything? That which is only within is certainly not without. When we say consciousness is within us, we are indirectly assuming that it is not without. Who is saying that consciousness is not without? Only consciousness can say that. Consciousness says, “I am inside, I am not outside.” </span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">This is an important point. The outsideness has to become a content of consciousness – be attentive to what I am saying – in order that consciousness may feel that it is not outside. It has to transcend its within-ness, gallop outside the boundary of this body, and feel itself in some other place, where it is denying itself at the same time. Think over this matter deeply. The consciousness that it is only inside and not outside is not possible unless it is at the same time outside, so that it may be conscious that it is not outside. You must meditate on this matter very carefully.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">What does this mean, finally? It is not inside, because if we say it is inside, we are creating great trouble for ourselves. By denying its absence outside, we are virtually asserting its presence there, because the denial of a thing is not possible unless the denial has already become a content of the denying consciousness. Thus, it means consciousness is not only inside, it is also outside. Outside has no limit; it is endless expanse. So, what does it mean? This ‘I’ consciousness seems to be an endless expanse of being-as-such.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">What do we call this consciousness? In Indian philosophical circles, this consciousness is called the Atman in Sanskrit. Again, do not make the mistake of saying the Atman is inside the body, because the idea of insideness has been ruled out because of the impossibility of that assumption, if the Atman is not at the same time outside also. It is the pure Selfhood or the assertion of pure subjectivity that is designated by the Sanskrit word Atman. In English, we call it Self. Inasmuch as it is everywhere, as has now been discovered by our analysis, it is Brahman at the same time.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The Self is the Absolute. Because it is also inside us – it is our pure subjectivity – it is called the Self or the Atman. Because it is not merely inside us but everywhere, it is a universal plenum of completion. In Sanskrit, we call it Brahman. In English it is called the Absolute Being.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">This is where we are led by our critical examination. It started with a doubt. Whether we go with the wonderment of creation or the conclusions of a sceptical outlook in philosophy, we seem to be landing on the lap of a common, uniform conclusion. Eastern thinking has been mostly intuitional and universal. Western thinking has always been empirical, individual, and limited to the reports of the sense organs. The perception of primary and secondary qualities which we see in the things of the world are the starting points of Western thinking – secondary qualities such as colour, sound, etc., which directly impinge upon our senses, and primary qualities such as geometrical shapes and the very structure of the object. Empiricism is the foundation of most of Western thinking. I do not say it is so everywhere, but mostly it is.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The inductive method is more predominant in the West, and the deductive system is predominant in the East. Deduction starts with something final being taken for granted as unavoidable, and from this unavoidable acceptance of there being some truth, we deduce certain conclusions. From the general, we come to the particular. But the Western way is to go from the particular to the general. When we observe certain events in the world which are, to ordinary perception, distinct particulars, and we see these particulars and behold a generality around them, we are actually following an inductive method. It is not that the inductive method is absent in Eastern thought. Philosophy and religion have always been inseparable in the East. But in the West, religion stood apart, and philosophy took a purely scientific turn, especially in the modern period.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Wherever we move, whether through the inductive process or the deductive process, we seem to be landing at a particular point. Go farthest into the remotest point of empty space – as far as possible to the circumference that limits entire space, if at all there is such a circumference – and we will find that we are back like a boomerang on the very point we started with. The innermost depth becomes identical with the most exterior depth of scientific observation, the farthest becomes the nearest, the most objective becomes the greatest of subjectivities where we begin to feel a commingling of the observer and the observed, whereby we will, at the same time, notice that all observation involves the activity of the observer. We cannot stand apart as an observer, keep observation outside in a laboratory, and have the object of observation still further away. The observing spirit, the observational process, and the object of observation seem to have a common ground, and unless we stand on that ground, we will not know either ourselves, or the process of observation, or the object that is observed. By pure scientific experimental or observational methods nothing can be known finally at its core because we, as scientists, try to stand outside the object, forgetting that our very attempt to know the object conditions the nature of the observation and the very structure of the object.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Thus, we will not know anything unless we know everything; it comes to that, finally. Therefore, philosophical conclusions of both the East and the West meet at a common point. It is not always true that, “East is East and West is West, and never the twain shall meet.” Though it is said so, it is not always like that. The world is round, and not flat. So is perception; it is a rotund process. It is a circular arrangement, where we cannot know which is the beginning and which is the end. In a circle, there is no beginning and there is no end. The beginning is the end; the end is the beginning. The commencement is the goal; the goal is the commencement. Here, we bring together Western adventure and Eastern intuition. So, we should be a true philosopher and not just a fundamentalist or a parochial linguistic theoretician. If we are broad enough to think in this manner, we will see we are citizens of the world – not of India or Europe or America, or of this country or that country.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The winds of the cosmos blow through our hearts. We are not citizens of merely this human Earth. We seem to be lifted to the galaxies, to the cosmic space, and we are citizens of the universe. What are the prerogatives and the liberties of a citizen? He is fully protected. A citizen is fully protected by the laws wherein and whereby he is a citizen. We are citizens of the universe, and the universe will protect us. We are guarded from all sides. We are never without a friend and we have no enemies, because the world has come round into a point of singular observation of a totality of Awareness. We may call this the most wonderful humanistic way of perception – a Universal United Nations that we have created – or perhaps, God Himself has entered our hearts and taken possession of us.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">All these wonderful conclusions are before us by a total dispassionate enquiry into the nature of things, which is what we call philosophy. God bless you.</span></p>
+</div>
+<span style="font-size: 12pt; font-family: verdana,geneva;">[Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society ]</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr />
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste">
+<h1>The Gospel of the Bhagavadgita</h1>
+</div>

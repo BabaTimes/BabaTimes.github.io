@@ -1,0 +1,161 @@
+---
+layout: post
+title: Swami Sivananda and the Divine Life Society
+joomla_id: 381
+joomla_url: swami-sivananda-and-the-divine-life-society-1
+date: 2012-04-30 00:56:21.000000000 +00:00
+---
+<h1 itemprop="name"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Swami Sivananda and the Divine Life Society by Swami Krishnananda</span></h1>
+<hr />
+<p>Created on Monday 4 November 2013 21:32</p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p><span style="font-size: 12pt;"><span style="background-color: #ffffff; color: #333333;"><span style="background-color: #808080; color: #ffffff;"><strong>READ MORE &gt;&gt;&gt;</strong></span></span></span><a href="http://www.swami-krishnananda.org/disc/disc_102.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_93.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_167.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;">Swami Sivananda and the Divine Life Society</span></a></p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText2">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span>
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p class="subNoteDisc"><span style="font-size: 12pt; font-family: book antiqua,palatino;">(Spoken to the residents of the <span id="adtext_1" class="adtext">Sivananda Ashram</span> on January 31, 1998)</span></p>
+<div id="discText"><span itemprop="articleBody">
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">We are here in the Sivananda Ashram, officially known as The Divine <span id="adtext_3" class="adtext">Life Society</span>. From Haridwar onwards, even up to Lakshmanjhula, people know this centre as Sivananda Ashram; they never use the words ‘Divine Life Society’. Everywhere—the bus stand, railway station—they know this place as Sivananda Ashram, to the glory Swami Sivananda, the great spiritual Master who lives in the minds of all people throughout the world even today. Glory to his name, glory to his power, glory to his compassion, glory to his wisdom!</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The Divine Life Society is the official designation of the institutional aspect of this centre. The Sivananda Ashram connotes more properly the religious and spiritual side of the people who live here, and to where people come from outside. In some other <span id="adtext_5" class="adtext">religious organisations</span> they completely separate the buildings and the organisation; they do not mix up the two things. Here we have one location, one set of buildings, everything looking one only, though there is the religious and spiritual side of the Sivananda Ashram and the service aspect, which is connoted by the words ‘Divine Life Society’. The Divine Life Society works for the welfare of all people. It is a service wing of The Divine Life Society Trust.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Swami Sivanandaji Maharaj was a combination, a blending, an integration of inward contemplation and outward service. He was not two institutions. He was himself the inner glory and the outer service and work. A question arises in the minds of people, especially those living here: What is this inwardness and the outer side of our daily activity?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">We are busy. With what are we busy, actually? Usually the novitiate, the Brahmacharin or even the Sannyasin who is not accustomed to go deep into things in <span id="adtext_4" class="adtext">daily life</span> is likely to think he is working in some department. “I am in the Publication League”, “I am in the Post Office”, and so on. But you are also in your own self. You are not always in the Publication League, Post Office, Annekshetra, or some other department. That we are also in our own selves at the same time is to be known very clearly.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">When we work for the people of the world—work in departments—are we going out of ourselves and placing ourselves entirely in the context of the dust on the table? Do we cease to be in our own selves at that time? This is a question which each one should raise to one’s own self. “I am very busy. I have no time.” This is the usual plea of people for anything and everything. We are very busy, we are hardworking persons, and we have no time. Have we no time even to be in our own selves? Have we gone out of ourselves to such an extent—to the desk or the table—that we are not existing inside ourselves?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">This is the old, refuted conflict between the cloister and the church, as they call it. Even in <span id="adtext_6" class="adtext">European history</span> we hear about the conflict between the cloister and the church, the church and the kingdom. The kings and the pope were not reconcilable. The pope represented the kingdom of Heaven, the church represented a replica of God in Heaven, and the king represented the power of the Earth. There was a perpetual clash between the two.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Here we do not have kingdoms, churches or kings. What we are in our own selves represents the spiritual side of our existence—very important to note. What we are in our own selves is one thing; and we are also doing many things outside, which seems to be another thing altogether. Humanly it may be impossible to reconcile these two aspects of life—the so-called outer and the inner. The push of the external phenomena is so vehement that it often seems that like a wild gale, our inner personality is thrown out of gear and cast into the winds of the propelling force of the workaday world. Everybody is busy. There is no time to sit. This is like being drifted by a whirlwind and moving in any direction it moves.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The spirit which Swami Sivanandaji Maharaj worked for, for which he established this Sivananda Ashram, was the spiritual side of our existence, which he never forgot to emphasise in every book that he wrote, wherein mostly the first sentence is, “God-realisation is the goal of life.” In all his writings, especially his early books, we will find the first sentence is, “God-realisation is the goal of life.” It is not that work is irrelevant. Swami Sivanandaji Maharaj was one of the most hardworking of persons. Anybody who had the occasion to live with him would know how hardworking he was. He was a disciplinarian on the one side and a <em>tapasvin</em> on the other side. He was not blending two conflicting sides of nature in his spiritual depths and outward activity; it was one and the same thing.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">In an analogy we may ask, “What is the difference between the existence of the Sun and the activity of radiation emanating from the Sun?” The existence of the Sun and the process of the radiation of the heat and light of the Sun cannot be distinguished one from the other. The light that is shed by the Sun is not a work that is done by the Sun every day. His existence itself is activity. This is something difficult to understand. Our existence itself is activity. But, what kind of existence? As a little worker, as a servant, as a boss, as a <em>pujari</em>, as a cook—is it that kind of existence we are referring to when we speak of existence being the source of the emanation of the activity that we perform? Can anybody imagine that activity is an emanation from our being? It is not arising from the desk and pen and paper—nothing of the kind.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Those who are accustomed to read the Bhagavadgita and probe into its deeper significant aspects would have found time to note that Sri Krishna, who speaks the Bhagavadgita and embodies in himself what he taught, was himself existence as well as action. He was not a person. In the Bhagavadgita, personality is not emphasised anywhere. The impersonality of the person is insistent throughout the Gita. <em>“Mattah parataram nasti”</em> is the oft-quoted verse in the Bhagavadgita: Outside me nothing is. If outside me nothing is, activity also is not outside me.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Any activity which is outside us is binding—<em>karma bandhana</em>, as it is called. The work that we do as an outward phenomenon will react upon us as a rope to bind us for rebirth. But if the work that we do is not a phenomenon, it is a noumenon itself, it is our soul itself flooding itself out, as it were, in the so-called outer world, then it becomes spirit dancing within itself in the form of activity. When God creates the world, He does not have desks, tables, typewriters, servants, etc. That overflowing of the abundance of the power of God is the active world that we are seeing before us. If we are also evolutes from God Himself, we are miniscule divinities embodying in ourselves all the potentials and comprehensiveness of God Himself. We are not topsy-turvy emanations from God but veritable sparks of the conflagration of God Himself.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Why did Swami Sivanandaji Maharaj start this Ashram? Is it just because he wanted us to keep busy and run about? He wanted to build up our personalities along the path of God. Did he not emphasise again and again that God-realisation is the goal of life?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Does anyone here find time to think along these lines, the lines chalked out for us by Swami Sivananda himself? Are we doing work which we resent, without which we would be very happy? We would like to take leave of work. Holidays are blessed days. Don’t we think like that? “Oh, three holidays have come. Let us be free.” Work is an evil. This is generally what we are made to think. Yes, work is evil in one sense of the term. In another sense, it is unavoidable. Did not Lord Krishna tell us, <em>“Na hi kascit ksanam api jatu tisthaty akarmakrt”</em>? Do not call it evil and then dub it in dark colours. Not even for a second can a person sit without doing something. The physical personality with all its cellular activity inside is throbbing with agitation. This agitation of the psychophysical personality is also work. Do you think it is sitting stone-like when we are not doing any work? Our personality is not made up of granite or steel that it does not act and react to any circumstance. The components of our psychophysical personality are part and parcel of the evolutionary process of the cosmos. <em>Prakriti</em> is the cosmic evolutionary process. It will compel us to take part in its activity. We may close our eyes and keep quiet, but we are still active. The forces of nature will drag our whole being towards it either by apparently sitting quiet in a <em>tamasic</em> mood, or <em>rajasically</em> running about in the form of work that we seem to be doing for others, or <em>sattvic</em> activity which is contemplation.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">There are many teachers of the Bhagavadgita everywhere. We have schools of the Gita and the Upanishads. What is the use of all these schools, finally? What is the meaning that we make out from the Upanishads and the Gita? There is some Sanskrit, some words, some grammar, some recitation, some holy attitude towards the book. Many people only worship the Gita; they do not even read it. They keep it on their heads and walk about. What does it mean? It is a guidance for our day-to-day life. It is meant for living, and not merely reading and reciting.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">God exists, and the world exists, and we exist. Existence is the primary meaning of everything. The primary essence of God is called existence. There is no other way we can describe God. Since everything is created by God, is an emanation of God, everything is existence as meaningful as the existence of God Himself. If God has not performed an outward activity by way of creating the world, we, as part and parcel of God, also cannot do any outward activity. If God has nothing outside Him, we too have nothing outside us, as we are replicas of God. That we seem to be having many things outside us in which we are sunk, which we dislike, is the consequence of sensory activity which is the peculiarity in human individuals and other living beings, contradistinguishing us from God.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">God has no sense organs. His organs are everywhere. <em>“Sarvatah panipadam tat sarvato’kshi siromukham, sarvatah srutimal loke sarvam avrtya tishthati”:</em> God’s feet are everywhere, God’s eyes are everywhere, His ears are everywhere. This is to be noted carefully. How could the legs be everywhere and the eyes only in one place? Have you heard of such a thing? Where the legs are, the eyes are also there. The legs can see, the eyes can walk, and the ears can eat in the case of God. But we cannot do that. We are sense-ridden individuals. The particular occupation of the sense organ is to project us as a phenomenon rather than a reality in ourselves. What does it do? The Upanishads tell us that it is perhaps God Himself who is responsible for plunging the sense organs outwardly in the world of space-time, making one forget one’s own existence.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">We are involved in sensory activity. Even when we do mental activity and intellectual work, still it is conditioned by the operations of the sense organs. We sometimes think intellectual activity is superior to sensory work. It may look like that. But the intellect only analyses, purifies the judgment part of the mind in respect of the reports received by the sense organs. They supply evidence and reports, as in a court, which are brought together into a focus of concentration by the mind, and judgment is passed by the intellect, with evidence as the beginning of all judicial activity. So whatever the intellect be, however intelligent we are—philosophers, etc.—we are incapable of freeing ourselves completely from the tinge of externalisation communicated to us by the senses. We judge everything as an outward thing. “I do not like this.” “Why should I do this?” This particular thing we call ‘this’ is outside us.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">There are no things outside us, really speaking. It is the evil nature of the sense organs that becomes responsible for throwing certain things as outside phenomenon and keeping ourselves intact. If the world is a phenomenon, we should not forget that we are involved in it. The world is a phenomenon, philosophers tell us. It is a transient fluxation, a movement. This is the world, this is all creation. But we are involved in it. We are moving together with what moves in the form of the world. But because of the eternity which is also lighted up in our inner personality, we have a double consciousness. We seem to be afraid of destruction such as death, etc. Because of the involvement in the phenomenal side of our nature, we hate death at the same time. We know that we are going to die, but we dislike it intensely because of the eternal voice that is telling us we will not die. On one side we are a phenomenon, on the other side we are a nomenon. A deathless being is within us, and a thing which is completely subject to death is also present within us. So we are dying and not dying at the same time. If it is clear that death is inevitable and unavoidable, why is it that we are trying to avoid it? Because eternity, which is inside us also, says that we shall not perish like that.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The relation between the phenomenal side and the eternal side is actually the meaning of life. This also explains the relation between work and meditation. Actually, we should not use the word ‘and’ between the words ‘work’ and ‘meditation’. Work <em>is</em> meditation; meditation <em>is</em> work. There were great mystics in the West who said, “If you want to meditate more, do more work. If you want to do more work, meditate more.” You will find it intriguing. What kind of thing is being told to us? Greater work is impossible without greater concentration, and greater concentration is not possible without greater participation in the cosmic substance. Meditation is an inwardisation of cosmic activity.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">We are all friends, devotees, disciples of Gurudev Sri Swami Sivanandaji Maharaj. We should learn the art of thinking like him and working like him. Nobody worked as he did, but nobody was so free as he was. Where comes the complaint? It is because we are mixing up values. We do not know whether we belong to this world or to the other world. Where are we actually sitting at this moment? We cannot answer this question, really speaking. Are we on the Earth? Are we in the Solar System? Are we in the Milky Way? Are we in the space-time complex? Where are we sitting at this moment? That is a frightening question indeed. Are we sitting on the Earth? Where is the Earth sitting? It is revolving around the Sun, which is what we call the solar orb, the centre of the Solar System. The Solar System is in the Milky Way, people tell us. It is a little piece of cosmic matter floating in space and time. Where are we sitting now? We are sitting in the vast spread-out space and time. The Earth is like a spaceship. It is not a solid, stable thing as we are imagining. Every moment it is moving like a spaceship. We are actually in mid space just now. Can you imagine that you are in mid space? Why do you say you are on the Earth? “Oh, I am in mid space. Oh, I am in a ship. It is moving fast in space.” You are wonderstruck by thinking like this. You will never say that you are sitting on the Earth at that time. You are in a cosmic setup. To which place do you belong? “I do not belong to India. I do not belong to America. I belong to no place. I belong to space.” You are a denizen of the spatial and temporal system. Who will guard you? Whoever guards the world will guard you also. The substance of the world is the substance of your personality. The purpose of evolution in the world is the purpose of your existence also.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Again I revert to the Bhagavadgita. What does Bhagavan Sri Krishna say? It is difficult to understand what the Gita says, really speaking. The Cosmic Person is giving a cosmic gospel; that is the Bhagavadgita. It is not one man speaking to another person in some remote historical time, as we are likely to think about the Bhagavadgita. It is an eternal message given by an eternal cosmic essence. We do not know how to describe it, so we call it Visvarupa in a childlike manner. Such a stupendous message which comprehends the whole work of the cosmos is spoken by God Himself. And it is spoken to us. God speaks to man. It is not Krishna speaking to Arjuna. Eternity speaks to the phenomenal. Deathlessness, immortality speaks to the passing fluxation of the world. We are sitting in it.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Are we friends among ourselves? Are we happy to see each other? Do we dislike one another? These questions can be answered easily by such a kind of analysis. Where is the question of mine, yours, his, her, its, and so on?&nbsp; Does the Bhagavadgita tell us all these things? “My property—who are you to take it?” Don’t we speak like that? All right, say that. But you will be carried away by the very thing which will carry your property also.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">If we are true disciples of Swami Sivanandaji Maharaj, we have to follow his footsteps, of course; but we have to live as he lived. When we came to the Ashram, we were like small boys. We used to ask him, “Swamiji, give us lessons.” He would say, “Hey, what kind of lesson do you want? See how I am working, how I am behaving. In different contexts and different circumstances, how do I behave, what do I say, how do I act? Observe me. That is my lesson, my teaching to you.”</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Some of us had the blessing of living with him personally, as if we were rubbing shoulders with God Himself. We have been blessed immensely by contact with him. If we are happy today, it is because the happiness of Swami Sivananda is implanted in us. He disciplined us. Disciplining does not mean imposing some pain upon somebody else. It is the art of adjusting our total personality in the context of our position in the whole universe. It is very difficult to understand. We cannot think anything without bringing the universe into our feelings. We cannot say, “I am living in a little building here.” There are no buildings, really speaking. There is only a world, and all the space-time complex. So we have no reason to get attracted to anything, no reason to be repulsed by anything, no reason to show a wry face against any other person. There are no other persons here, really speaking. I have mentioned this again and again on earlier occasions. There are no such things called other persons, because you are also an ‘other person’ to other people.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Here again we are caught by the phenomenon of sense activity. When I look at you, you are the other. When you look at me, I am the other. Now, who are the others in the world, really speaking? If everyone is other, to whom are the people other? Is it not a chaos that we create when we say, “I am serving other people”? Who are the other people except yourself? Are you not one of the other people? Social workers also make mistakes. They think they are apart from the people whom they are serving. Unless they are involved in the very structure of humanity itself, social welfare work will not succeed. They should not consider it as an other activity that they are doing. If it is an other activity, their soul will not be present in it. Soulless activity is not worthwhile in any sense. Afterwards they feel frustrated and give up all that they thought was worthwhile.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Can you imagine that it is possible to think like this? The otherness of things is a fallacy. The tree is not an other to itself. A river is not an other to itself. I am not an other to myself. None of us, no one, is an other to himself or herself. Now, who is the other about which we are talking? This is a very shrewd, cunning idea introduced into us by the activity of the propelling sense organs. The otherness of things is the world; the inwardness of things is yourself. But you are also other, so the inwardness becomes a cosmic inwardness. In this case you may have to look at things with a different eye altogether. You can see the whole world by closing your eyes. You will be throbbing with happiness and joy.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">God is very kind. Swami Sivananda has been very kind. Here in this Ashram, The Divine Life Society, we have a world of facility of every kind. We have the facility to rise to heaven, or we have the facility to bury ourselves under the earth. Swami Sivanandaji has given us all the facilities. But the sense organs, which are so vicious in their nature—egoism being the propelling factor behind the sense organs—will not allow us to think. In order that we may refresh ourselves and have the power to think correctly, we have to live with saintly souls.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">I have been tirelessly saying that <em>satsanga</em> is the most important thing. By <em>satsanga</em> I do not necessarily mean a huge gathering; it can be a friendly relation with a good person, even if it is only one person. If we go to a great saint and sit with him, this is <em>satsanga</em>. <em>Santaha</em>, <em>sangaha</em>, <em>satsanga:</em> Contact with a <em>sant</em> is <em>satsanga</em>. It may be a large group or it may be only one or two persons, still it is <em>satsanga</em>. If two people sit together and discuss the nature of God and salvation, it is <em>satsanga</em>, though there are only two persons.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;"><em>“Tat chintanam tat kathanam anyonyam tatprabodhanam, etadekaparatvam cha brahmabhyasam vidur budhah</em>.” Thinking only that—as when we lose a valuable treasure we will wholly be thinking, “I have lost my treasure. It is very valuable, and I have lost it.” <em>Tat chintanam:</em> thinking that only. <em>Tat kathanam:</em> talking to people on that subject only. If we lose something, we will go on saying, “I have lost, I have lost.” Everywhere we will go on telling it. <em>Anyonyam tatprabodhanam:</em> awakening people among ourselves. If we ask anything or we speak, we must speak elevating words. “May I be of some service to you?” What do we lose by saying these words? “Are you well?” “Anything from me?” Actually you don’t want anything from me, but these words act like a balm. “How are you? Are you feeling well? Do you need anything, any service from me?” Are we poor even in words? We cannot utter even these words.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">It is difficult to go on speaking much about Swami Sivananda, except by those people who lived with him. His life itself was a spiritual biography. So we have a monthly gathering here. We are always speaking of management matters, and so on. That is very wonderful; management is necessary. We have to look to the working of The Divine Life Society, Sivananda Ashram, and everybody has to be taken care of. That is perfectly right. But we should also be happy. We should not be grumblingly living in the Ashram. Many times we are tired of our own selves. Even to exist is often a fatigue, because the existence is not utilised for a proper purpose. There is a difference between existence and drudgery. We can drudge, and not actually do any work. We can be sitting quiet for days and months, and we will be not really existing at all. It is called vegetating, rather. Vegetating is different from living. We know the difference. What is vegetating? It is simply getting on. “How are you?” “Getting on. Getting on.”</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Life is meant to be utilised for the purpose for which we were born, and it is necessary to know what that is. We have no time to think about that. What are we here for? Any day the wind of fluxation of the world will come and catch hold of our throats, and we will leave this world. All our clinging will vanish. Do not cling to anything. You should not keep even a wristwatch if it is a question of clinging. One of the principles of saints is, you should not keep anything with you by the loss of which you will be sorry. Think over: “Is there anything with me by the loss of which I will be grieved?” Then you should not keep it at all because any moment you will go, together with the grief. God will give you anything that you want, but you should not go on clinging. Asking from God is different from clinging to things.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">We remember Swami Sivanandaji Maharaj always. I cannot forget his existence even for one moment. Everything is a miracle here, if we think of it. The way in which a large number of people are fed in this kitchen—we allow people to go into the kitchen and take food without any kind of disciplinary restriction, the like of which we will not see in any other place. The way in which we give books free to people, we will never hear anywhere people giving away <em>lakhs</em> of rupees worth of books like that. Give, give, give, give, give, give—this is the only thing Swami Sivananda liked. This is a phenomenon. The Sivananda Ashram is a phenomenon. We have blessings from all sides. Great souls have blessed us, God has blessed us, Swami Sivananda has blessed us, all the saints and sages have blessed us. We have everything here. There is no cause for complaint. Whatever we want, comes. From where does it come? Who is the force behind it? I don’t know whether it is Gurudev Swami Sivananda or God Almighty Himself.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">So, all be happy. May peace prevail everywhere!</span></p>
+</span></div>
+</div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span><span itemprop="articleBody"></span><span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+</div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: verdana,geneva;">[Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society ]</span></p>
+<hr />
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste">
+<h1>The Gospel of the Bhagavadgita</h1>
+</div>

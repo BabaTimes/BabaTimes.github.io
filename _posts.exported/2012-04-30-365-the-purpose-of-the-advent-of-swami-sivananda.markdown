@@ -1,0 +1,135 @@
+---
+layout: post
+title: The Purpose of the Advent of Swami Sivananda
+joomla_id: 365
+joomla_url: the-purpose-of-the-advent-of-swami-sivananda
+date: 2012-04-30 00:56:21.000000000 +00:00
+---
+<h1 itemprop="name"><span style="font-size: 12pt; font-family: book antiqua,palatino;">The Purpose of the Advent of Swami Sivananda by Swami Krishnananda</span></h1>
+<hr />
+<p>Created on Saturday 7 September 2013 20:26</p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<p><span style="font-size: 12pt;"><span style="background-color: #ffffff; color: #333333;"><span style="background-color: #808080; color: #ffffff;"><strong>READ MORE &gt;&gt;&gt;</strong></span></span></span><a href="http://www.swami-krishnananda.org/disc/disc_102.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;"></span></a><a href="http://www.swami-krishnananda.org/disc/disc_101.html"><span style="font-size: 12pt; font-family: book antiqua,palatino;">The Purpose of the Advent of Swami Sivananda</span></a></p>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText2">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span>
+<div id="discText"><span itemprop="articleBody"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span></span><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span>
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText">
+<div id="discText"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name">(</span></span><span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span itemprop="name"></span></span><span style="font-size: 12pt; font-family: book antiqua,palatino;">Spoken on September 1st, 1987) </span>
+<div id="discText"><span itemprop="articleBody">
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The coming of Sri Gurudev on this planet, this Earth—the entry of this divine soul into this world—may sometimes be compared to a <span id="adtext_5" class="adtext">shooting star</span> which shines its light on all the dark corners of the planet and illumines every side of it, every part of it, every aspect of it and every phase of it, as if life enters a lifeless body.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The whole Earth may be compared to a living organism which, during the course of human history, demonstrated a tendency to get devitalised in slow paces, for reasons galore. It looked as if, latterly, the whole of humanity appeared to be moving in the direction of a devitalisation of its own inner constitution—a dehydration and a diminution of vitality which went, simultaneously, with a blinding of its vision, a sidetracking of its general outlook, and a signal of an entry into a darkness which it began to mistake for a kind of extroverted intelligence. I am particularly making reference to the tendency to industrialisation, economisation, and an overemphasis on what today generally goes by the name of a scientific outlook of life. All this is summed up by this objectification of the human mind in its <span id="adtext_4" class="adtext">general vision</span> of life, and its dedication to the phenomena presenting itself as this vast physical nature outside us.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;"><span id="adtext_6" class="adtext">Human nature</span> became a part, an insignificant aspect of nature, studied in natural science in the field of <span id="adtext_1" class="adtext">physics and chemistry</span>, so that the visibility of the world got highlighted and the human personality got identified with what became the visible panorama of this world. If the world is a visible phenomenon and if man is also involved in this phenomenon, nature manifests itself as human nature. If this is to be the case and it is to be accepted that through the process of natural evolution human consciousness evolved out of incipient powers which were sleeping and which were material in their content, if the evolution doctrine concludes that man is a latecomer in this process of the coming of the species into intelligent existence, if it is also accepted, at the same time, that the world is nature, nature is the world, that the world is the visible structure of physical nature—the world is visibility and vice versa, visibility is the world, to see is to believe and to believe one must be able to see—then that which is not seen is also not an object of belief, trust or faith. The externality, the sensory objectivity, the visibility, so called, of the world involved a simultaneous subjection of the entire humanity to the phenomenon of this visibility, so that man became an object like any other object in the world.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">As we have things of nature, man also became one of the things of nature. Man is not a human being isolated from or distinguishable from natural forces, but man became a conglomeration, a pressure point of natural forces, a material phenomenon himself. If world is externality, man is also externality. This is to be entirely scientific to the core, with a vengeance, we may say. The later part of the nineteenth century and the commencement of the twentieth century went headlong into a deification and an adoration of nature as the be-all and end-all of life. Natural phenomena were the final reality. The evolutionary doctrine of Darwin, Lamarck and others confirmed to the hilt that nature is all and nature is everything. And all created beings, living beings, including human nature, got submerged into the natural processes. Materiality, to say the least, became the god of the universe. It was only a little distance for man to get lost completely in dead matter. He had not died completely, but he was heading towards death.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The mind and consciousness, which actually distinguish human nature from other created things, began to lose their stability and stature, their independence. Man became dependent. The whole scientific outlook, especially from the point of view of physical science, is an embarkment on the adventure in life in the direction of calculation, mathematical measurement, and an overemphasis of the observability of anything that can be called real. It is not the rational that is the real, but the visible that is the real. All that is of the character of reality has to be capable of subjection to visible observation through scientific methodology. Does anything else prevail in life which can explain the aspirations of human nature, the longings of the heart, the ideals of ethics and morality, and the urge from within everyone to appreciate aesthetic beauty and to appreciate a tendency to achievement in the future by what is called a teleological movement of the present towards a future attainment?</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Science got identified with industry. Theoretical physics became applied physics, and the comforts of the physical aspect of life practically became the sum and substance of human aspiration and the desire of anything that is alive. To be comfortable, to be physically secure, and to be assured a sensorial happy life was regarded as the only possible finality of all life.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">While nature is an external manifestation of an internal aspiration, its externality does not permit the total extinguishing of the flame of its internal surge for a self-realisation of itself. Even if nature is to be considered as the whole of reality visible to us through our sense organs, there is a necessity to appreciate the fact that nature has to recognise itself. An unrecognised nature is no nature. If nature is to be there as the final reality of things, it has to be recognised. Nature has to be recognised, if not by someone else, at least by itself. There is no one to recognise nature as existent, because everyone is included within the purview of nature. Neither you nor I can know nature, because we are parts of nature. It becomes difficult to know how nature can know that it exists at all, how science can stand on its own legs and become explicable in intelligent terms, if a self-recognition of the very existence of nature is to be denied in the light of there being nobody to know that nature exists at all—unless, of course, a capacity to self-recognition is attributed to nature.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Nature got roused into its own potentialities. Actually, the process of evolution is the working of nature within itself. All life rises to the surface of its immense capacity, as the rumbling in the bosom of the ocean rises to the surface in the form of its waves, and the potentiality at the root becomes manifest as the visible phenomena we call nature from the point of view of science, physics, etc. It became necessary for nature to realise that it has to recognise itself. Nature cannot be sleeping always. None of us can be eternally sleeping, though sleep is also an essential part of life. Awakening into a consciousness of one’s own existence became necessary.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Nature evolves, but evolves for a purpose. A purposeless evolution is a chaotic interpretation based on a totally unintelligible system of things. Such a thing is not permissible because even to accept that there is a kind of chaos prevailing finally in nature, there should be, at the back of this phenomenon of chaos, something which is not in a state of chaos. Chaos cannot know chaos. An intelligent, systematic operation should be accepted to be present at the back of even <span id="adtext_3" class="adtext">natural evolution</span>, which otherwise would be a march of death towards its own self-annihilation.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The coming of great saints and sages, the incarnation of Masters, the entry into this world of divine powers—in this instance, the birth of a soul like the great Master Swami Sivananda—should be regarded as one of the operations of nature to find a way of coming to a knowledge of consciousness of its own existence. The more we know ourselves, the stronger we become. The more we lose ourselves in what we see with our eyes and become things and objects rather than our own selves, the weaker we become. The greater is the emphasis that we lay on what we see with our eyes, the lesser is the requirement of nature from our own selves. Gain in nature is loss in self. The more do we feel the necessity to depend on external nature for our safety, security and satisfaction, the less do we become important in the scheme of things; and if all nature is only reality as a material phenomenon, we cease to exist at once. The existence of nature is the death of all humanity as a living principle. Nature has to live in its total inclusiveness and an overmastering phenomenon of materiality only if the death of the soul takes place.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The soul cannot die, for the simple reason that it is a principle of self-recognition of any phenomenon. Whatever be the outcome, whatever be the procedure, whatever be the intention, and whatever be the shape or the form taken by a process, it requires to be recognised. This is a point that has to be accepted, first and foremost. The recognition of a phenomenon is the placing of a soul into it. Either we recognise the presence of a particular vision, phenomenon or process of history, or it recognises itself. A non-recognised phenomenon is a non-existent phenomenon. It has to be recognised either by us or by its own self. If we recognise it, we transfer a particular kind of soul to it from our own side. If it recognises itself, it has a soul in itself; it is self-conscious.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The natural evolution, the process of the coming of newer and newer types of species from the bosom of nature, is a simultaneous manifestation from within nature itself, the potentialities for greater and greater forms of self-recognition. If this were not to be the case, there would be no intelligent purpose in the process of evolution. Why should there be evolution? Why should something come from something else? Why should an effect follow from a cause? Why should anything be there at all if there is no intelligible, conceivable aim behind this purpose? The consciousness of a purpose is at once the recognition of a continuity of intelligence throughout the flux and formations of the process of evolution, right from the most incipient of stages we call unconscious matter, until recognition becomes self-complete, totally inclusive and self-sufficient.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The coming of great Masters such as Gurudev Swami Sivananda is actually the rising into Self-consciousness of a potentiality of a soul in nature. Great saints and sages are not physical bodies; they are not material formations. When we adore geniuses, saints, sages and incarnations we are not worshipping material formations but the soul content that animates them, the intensity of higher aspirations that enlivens them. We know very well what it is that we adore in the great Master Swami Sivananda. It is not the six-foot-tall physical frame of flesh and blood and bone that is the object of worship or appreciation of values. ‘Value’ is the word to be highlighted. A meaning, a significance and aspiration, a light or an enlightenment—in short, a soul—is what is behind this vision of ours presently in the form of this great Master.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Spirituality was the high-water mark of the message of Sri Gurudev. There is a continuity and an unending, never-ceasing permeation of a value behind dying principles and discontinuous movements of nature. An unknown content pervades and permeates all known things in the world, and this unknown masquerading of an eternal value seems to be the explanation for endless longing in the hearts of people—an eternal quest that seems to be pressing forward any form whatsoever that is created, and the impossibility to be satisfied with anything in this world at any time, even if one is the possessor of the whole Earth and the king of the whole world. The peculiar, eluding something that compels us to remain unsatisfied with anything and everything in the world, causing an unending asking for an endless continuity of our life, a pressure from within our own selves to be all and everything, if possible—not to be limited in any manner whatsoever, to defy every kind of finitude, physical, social, political or otherwise, to dominate everything and to gain suzerainty over all things—this aspiration, this longing, this potentiality of asking within everyone, is the explanation of all creation.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The purpose of Sri Gurudev’s coming into this world, and the intention behind the coming of any sage and saint, is the waking of the slumbering soul of mankind. Fast asleep was humanity in embrace and contentment with its union and attunement with sources of material satisfaction. The otherness of life got emphasised, and the selfhood of things got slowly delimited into a point of self-annihilation. Death began to stalk the Earth in the form of a materialistic civilisation.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">The God of creation, the thing from which everything originated, the source of all aspiration, longing and meaning in life, shook its shoulders, as it were, and recovered itself. As we know, when a thing goes to its extreme, its other extreme begins to act. In order that you may gain everything, you have to lose everything. This is how extremes act in this world. When everything is lost, everything shall be found. When you are a ‘nobody’ in this world, you shall become an ‘everybody’. When nobody wants you, you will see that everybody will want you one day or the other. When everything goes, everything comes.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">In a similar manner, through the process of a materialistic movement of nature, when it tended to the extreme of a total dependence on its externality alone, minus internality—which propelled it in its movement in this direction—suddenly the balance tilted in the other direction to maintain a stability of its existence. We may safely say that at the beginning of this century there was a worldwide movement of the revival of the higher values of life in the East, in the West, and everywhere. Values got emphasised, and interpretations of phenomena became more important than phenomena itself. The capacity to know became more important than that which is known. The scientist was a greater value than the findings of science. Mathematics ruled physics, which means to say, mind began to rule over matter. The subjectivity of the element of life began to gain an upper hand over the objectivity of phenomena, and the Universal started peeping through the apertures of all particular things and individualities. God felt a necessity, as it were, to move consciously in His own creation, and spirituality became, and had to become, the rule, the order and the principle of all life.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Gurudev Swami Sivananda highlights this great principle of spirituality becoming the working order of creation, the methodology of living in this world, the very way in which we breathe, live, work and transform our daily activity, our performance, our work and our very movement in this world into a regular worship of God Almighty. The world becomes a veritable manifestation of God before us, and our daily duties become a waving of the holy light before this great Master of creation present in all living beings, beaming through all eyes, nodding through all heads, speaking through every tongue, and working through all hands—<em>sahasra shirsha purushah</em>. This great message of the Purusha Sukta was the final message of Gurudev Swami Sivananda. He stood for the message of the Vedas, the Upanishads and the Bhagavadgita which, we may safely say, highlight the farthest reach that mankind could achieve in its slow movement from the lower order of creation until it reached the human stage, wherein it was not content. Humanity became a pointer to the presence of a superhuman possibility. Life emerged from the lower species to the higher order of creation until it reached human nature. It is only at the human level that it could visualise the presence of a future which is more inclusive and wider in its dimension. It is only at the stage of humanity that one could visualise the presence of divinity.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Gurudev Swami Sivanandaji Maharaj was an incarnation of this unending, incessant, eternal human aspiration for perfection. His teaching is usually summed up in a pithy statement: “God first, world next, yourself last.” This statement, this little message, this one-sentence teaching perhaps sums up the great gospel of life which brings God to the Earth, into our kitchen, into the very room in which we live, into this vestment of our physical personality, and transmutes the materiality of creation into a scintillating divinity through which we live, move, and have our being.</span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;"><em>Hari Om Tat Sat.</em></span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;"><em>Om purnamadah purnamidam purnaat purnamudachyate,<br /> purnasya purnamadaya purnamevaavashishyate.</em></span></p>
+<p><span style="font-size: 12pt; font-family: book antiqua,palatino;">Om Shanti! Shanti! Shanti!</span></p>
+</span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span><span itemprop="articleBody"></span><span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+</div>
+<span itemprop="articleBody"></span></div>
+<span itemprop="articleBody"></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style="text-align: justify; line-height: normal;"><span style="font-size: 12pt; font-family: verdana,geneva;">[Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society ]</span></p>
+<hr />
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div style="position: absolute; left: -40px; top: -25px; width: 1px; height: 1px; overflow: hidden;" data-mce-bogus="1" class="mcePaste" id="_mcePaste">
+<h1>The Gospel of the Bhagavadgita</h1>
+</div>

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Vedanta is Living Experience '
+joomla_id: 633
+joomla_url: vedanta-is-living-experience
+date: 2014-07-25 17:02:00.000000000 +00:00
+---
+**Spiritual Message for the Day – Vedanta is Living Experience by Sri Swami Sivananda**
+**Baba Times Digest© |25 July 2014 14.49 EST | New York Edition**
+* * *
+**Vedanta is Living Experience**
+**Divine Life Society Publication: -** [**Vedanta is Living Experience**](http://www.sivanandaonline.org/public_html/?cmd=displaysection&section_id=739&format=html) **by Sri Swami Sivananda**
+VEDANTA is today a much abused term. All sorts of vanity, hypocrisy and self-conceit have been masquerading in its name. It has become the fashion of the day to pass for a Vedantin as it is then convenient to give up all sorts of responsibilities, rituals and restrictions of the Varnashrama Dharma and enables one to lead a happy-go-lucky life to ease, lethargy and inertia. Most people take great pride in calling themselves Vedantins, whether or not they understand the philosophy, whether or not they do any practice. All retired officers who have not done any selfless service or any Sadhana or worship or charity take to Vedanta as a sort of fancy.
+Thus Vedanta has become a very comfortable philosophy, because one can do whatever he chooses and eat whatever he likes. Licentiousness is mistaken for a life of expansion. If a man can eat anything in any hotel in any part of the world, if he can move socially with any man or woman, that does not mean, he is a Vedantin. There is much tall talk of Vedanta now-a-days. There is idle Vedantic gossiping. But there is no practical Vedanta. Nobody wants to do any real solid Vedantic Sadhana. Man feels ashamed to call himself a Bhakta, but he takes great pride in calling himself a Yogi or a Vedantin, because he foolishly imagines he will respected by the public. Many ignorant Vedantins have mistaken the body for Brahman and hence there is corruption amongst the so-called loose Vedantins. This is not only lamentable but also highly deplorable.
+Wholesale preaching of Vedanta to the Masses is not advisable. It will result in chaos, bewilderment and stagnation. Grasping of Vedantic principles and a right understanding of the philosophy and Sadhana are very difficult. Vedanta is for a select few who are equipped with the four means of salvation or Sadhana Chatushtaya and who have removed the impurities of their minds and mental oscillation through constant practice of Nishkama Karma Yoga and Upasana. The path of Vedanta is not so easy as it is generally supposed to be. It is a sharp razor-edge path. Therefore, those who preach Vedanta to the masses do more harm than any good. They are misleading the people.
+It is very very easy to say, Soham - I am He, Sivoham - I am Siva, Aham Brahma Asmi - I am Brahman like a parrot, but to live in the very spirit of Vedanta, to feel the oneness or unity of consciousness, to become 'That' in reality and to radiate the Brahmic Bliss, Joy and Peace is an extremely difficult affair. While repeating 'Soham', if his mind is easily upset when another utters a single harsh word, and if he begins to fight with that man vehemently, there is no use at all in that repetition. It is mere hypocrisy. He will not be able to influence others. People will take him for a cheat.
+Vedanta is not merely a concept or a dogma. It is neither a theory nor a dry philosophy for contention and argumentation. It is the actual life of perennial joy in Brahman or Truth. A single practical Vedantin like Sankara could move the whole world. A practical Vedantin will outweigh a thousand and one Sandows when weighed in a balance. A practical Vedantin possesses tremendous inner spiritual strength. The whole world rejoices at the sight of a real practical Vedantin. Practical Vedanta is a living experience, the melting of the individual self in the ocean of consciousness or the Supreme Self. The experiencer exclaims with inexpressible joy, All indeed is Brahman. All differences, distinctions, qualities have vanished. I see Brahman and Oneness everywhere. I am Brahman.
+**Excerpts from:**
+[**Vedanta is Living Experience**](http://www.sivanandaonline.org/public_html/?cmd=displaysection&section_id=739&format=html) **by Sri Swami Sivananda**
+* * *
+ 
+If you would like to purchase the print edition, visit: [The Divine Life Society E-Bookstore](http://www.dlshq.org/download/download.htm)
+If you would like to contribute to the dissemination of spiritual knowledge please contact the General Secretary at: [**generalsecretary@sivanandaonline.org**](mailto:generalsecretary@sivanandaonline.org?subject=Contribution%20to%20Dissemination%20of%20Spiritual%20Knowledge)
+* * *
+**SEND FEED BACK ON THIS ARTICLE \\\ Email to BT Digest Editor[](mailto:dlsusa.org@gmail.com?subject=DLS%20Posts)(dlsusa.org@gmail.com)**
+* * *
+  
+
+
