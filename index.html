@@ -2,11 +2,9 @@
 layout: default
 title: The Baba Times
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.content }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+   <h5>{{ page.date | date_to_string }}</h5>
+   {{ post.content }}
+<div>
+{% endfor %}
