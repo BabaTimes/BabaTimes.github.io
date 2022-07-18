@@ -109,26 +109,26 @@ foreach my $md_file (glob("*.markdown")) {
 	$markdown_content =~ s/&nbsp;//g;
 
 	# Remove successive newlines
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
 
 	# Remove lines with just spaces or tabs on them
-	$markdown_content =~ s/^\s*\n//g;
-	$markdown_content =~ s/^\t*\n//g;
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
-	$markdown_content =~ s/^\s*\n//g;
-	$markdown_content =~ s/^\t*\n//g;
-	$markdown_content =~ s/\n\n/\n/g;
-	$markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/^\s*\n//g;
+	# $markdown_content =~ s/^\t*\n//g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
+	# $markdown_content =~ s/^\s*\n//g;
+	# $markdown_content =~ s/^\t*\n//g;
+	# $markdown_content =~ s/\n\n/\n/g;
+	# $markdown_content =~ s/\r\n\r\n/\r\n/g;
 
 	push(@out_lines, $markdown_content);
 	my $out_content = join("\n", @out_lines);
