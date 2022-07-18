@@ -6,17 +6,36 @@ joomla_url: celebrities-gandhi-acharya-meeting
 date: 2012-05-05 20:02:24.000000000 +00:00
 ---
 # **Gandhi - Acharya Meeting**  
+
 * * *
+
 **MAHATMA GANDHI** was touring the South in the latter half of 1927. He had heard about the **Sage of Kamakoti Peetha** , and wanted very much to meet him. The Sage was camping at Palghat at the time in the course of his vijaya-yatra. The Mahatma went there on the 15th of October, 1927; the meeting took place on that day at Nellisseri village, Palghat, Kerala.
+
 His, Holiness received the Mahatma in the cattle-shed situated in the backyard of the camp. It was a unique experience for the Mahatma. Here was an authentic successor of Sankara, dressed in a piece of’ ochre cloth made of khadi, and seated on the floor. The Acharya too appreciated the occasion provided for getting to know, at first hand, the leader of the nation who had adopted voluntarily the mode of a simple peasant’s life. At the very first sight, the Mahatma was drawn to the Perfection Incarnate that was seated before him. The atmosphere was surcharged with spiritual silence. After a few moments the Acharya spoke in Samskrit and invited the Mahatma to take his seat. Gandhiji offered his obeisance and sat near the Acharya. He said that, as he was not used to speaking in Samskrit, he would use Hindi if that was permitted, and that he could understand what is spoken in Samskrit. So, the conversation took place without the need for an interpreter-the Acharya spoke in Samskrit, and Gandhiji in Hindi.
+
 This was purely a private interview; there were no reporters; and except for one or two attendants of the math, no one was present. The conversation, which took place in a most cordial atmosphere, lasted for over an hour.
+
 On taking leave of the Acharya, the Mahatma gave expression to the immense benefit he had derived from this unique meeting. How profoundly he was drawn to the Acharya will be evident from an incident that occurred during the interview. It was 5.30 in the evcning. Sri C. Rajagopalachari who had accompanied the Mahatma had been waiting outside, went inside the cattle-shed and reminded the Mahatma about his evening meal; for the Mahatma would not take any food after 6 P.M. The Mahatma made this significant observation to Sri. C. Rajagopalachari: “The conversation I am having now with the Acharya is itsclf my evening meal for to day” As thc Mahatma was leaving ,after a very fruitful interview, the Acharya gave him a pomelo fruit with his blessings. The Mahatma received it with great reverence, remarking that pomelo is a fruit which he liked best
+
 Later in the evening, Gandhiji addressed a public meeting in Coimbatore. Some people in tbe audience were eager to know about the interview Gandhiji had had earlier with His holiness. Gandhiji replied saying that they discussed points of mutual interest, that the interview was a private one, that because of this, news paper reporters were not present there and that there was no point in his disclosing the details of the interview. Nothing more was known about this historic meeting.
+
 Above, you can see the house at Nelliseri Village, Palghat, Kerala, in which Mahatma Gandhi and H.H. Jagadguru Sankaracharya met on October 15, 1927.
+
 A request was made to His Holiness in November 1968 for a message of the Seminar on The relevance of Mahatma Gandhi to the world of thought held at the University of Madras. Out of his abundant grace, jagadguru, the preceptor of the World, sent a message in which he recalled the meeting in 1927 with Gandhiji the Father of the Nation and paid the following tribute:
+
 “We wish to place before this Seminar one of the’ many things which Gandhi and I we discussed when we met at Palghat, Kerala in the last Prashava year.
+
 “Before Gandhiji arrived at Palghat there came the news of the assassination of Sraddhananda of the Arya Samaj. Referring to this incident Gandhiji remarked as follows:
+
 “I have an apprehension in my mind that assassination of this kind would occur more often than now [in the coming years] Let not there arise in me hatred even in a small measure against the present assassin. There arises a desire in me that I should able to embrace with love even so cruel a man who commits a heinous crime, as this one, an atatayin. But it is extremely difficult to cultivate such heartfelt affection. Yet I shall make an honest attempt in this direction.”
+
 All that we wish to point out that in this, world it is very rare even to hear about such a feeling expressed.”
+
+
+
 [Source]
+
 * * *
+
+
+

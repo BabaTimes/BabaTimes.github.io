@@ -6,7 +6,9 @@ joomla_url: marriages-wedding-in-vedic-period
 date: 2012-05-05 20:02:24.000000000 +00:00
 ---
 # **Wedding in Vedic period**
+
 * * *
+
 Wedding in the Vedic period were the earliest form of marriages in India. In Vedic civilization the marriages have their written records in the Vedic texts. The Vedic Civilization had built up along the river Saraswati, in a region that now consists of the modern Indian states of Haryana and Punjab. The Vedic texts have vast dates starting from the 5th millennium BC. The use of Vedic Sanskrit continued up to the 6th century BC. Vedic is identical with Aryans and Hinduism, which is another name for religious and spiritual consideration that has evolved from the Vedas. Literary and historical researchers have established beyond that the women held a position of quality with man during Vedic period. Both the girls and boys were imported Vedic studies. The importance of woman education is described in the Atharva Veda. The success of woman in her married life depends upon her proper preparation during the Brahma Charya stage. Gargi and Maitrayee were two women philosophers of prominence of that period. There were also great woman scholars during Buddhist period. Sanghamitra, the sister of the great emperor Ashoka, went to Ceylon to spread Buddhism. There were 10 married and 32 unmarried women were among the authors of Theragatha.   
    
  During the Jainism period, the woman had an access to the education. Yayant princes remained unmarried and received ordination from Mahavira himself. Based on these facts, Altekar concluded that the girls in Vedic period in well-to-do families used to be given a reasonable amount of education. The marriage was looked upon as a religious and social duty. The unmarried person was looked upon as a religious and social duty. The unmarried person was not eligible to participate in Vedic sacrifices. This was not looked upon as compulsory for every girl. The matrimony was not essential far a woman and there was no restraint on the age of marriage.   
@@ -16,5 +18,12 @@ Wedding in the Vedic period were the earliest form of marriages in India. In Ved
  In Vedic period, both husband and wife were necessarily joint owners of the property. Hindu woman held an honored place in the Vedic society, both before and after marriage. They inherited and acquired property; they took share in sacrifices and religious ceremonies and also attended the assemblies and state occasions. The women in the Vedic age distinguished themselves in science and leaving at their times. The women after their marriage considered as intellectual partners of their husbands. The wives are the friends and loving helpers in the journey of life of their partners, in their religious duties, and the center of their domestic activities.   
    
  Hindu wives were honored and respected in ancient times. The position of the Hindu woman in the early Vedic times was much better than the position to which they were dishonored in about 300 B.C. The marriage of the daughter was not a difficult problem. The daughter herself often selected the groom in most of the cases. There was no fear of widowhood because remarriage were allowed by society. Levirate is the custom of marriage of brother`s wife and was even common. The women before 300 B.C. truly enjoyed a high status and dignity.
+
+
+
 [Source]http://www.indianetzone.com/28/wedding\_vedic\_period\_indian\_wedding.htm
+
 * * *
+
+
+

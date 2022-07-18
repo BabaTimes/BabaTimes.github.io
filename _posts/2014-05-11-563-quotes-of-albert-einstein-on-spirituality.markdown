@@ -5,10 +5,46 @@ joomla_id: 563
 joomla_url: quotes-of-albert-einstein-on-spirituality
 date: 2014-05-11 17:02:00.000000000 +00:00
 ---
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Baba Times Digest© | 11 May 2014 20:47 EST | New York Edition**
+
 * * *
 **Quotes of Albert Einstein on Spirituality**
+
 **Divine Life Society Publication: -** [**Quotes of Albert Einstein on Spirituality**](http://www.dlshq.org/messages/einstein.htm)
+
 1. I want to know God's thoughts; the rest are details. 
 2. Science without religion is lame. Religion without science is blind. 
 3. My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind. 
@@ -35,13 +71,26 @@ date: 2014-05-11 17:02:00.000000000 +00:00
 24. The real problem is in the hearts and minds of men. It is easier to denature plutonium than to denature the evil spirit of man. 
 25. True religion is real living; living with all one's soul, with all one's goodness and righteousness. 
 26. Intelligence makes clear to us the interrelationship of means and ends. But mere thinking cannot give us a sense of the ultimate and fundamental ends. To make clear these fundamental ends and valuations and to set them fast in the emotional life of the individual, seems to me precisely the most important function which religion has to form in the social life of man. 
+
 **Excerpts from:**
+
 **Divine Life Society Publication: -** [**Quotes of Albert Einstein on Spirituality**](http://www.dlshq.org/messages/einstein.htm)  
+
+
+
+
+
 If you would like to purchase the print edition, visit:   
  [**http://www.dlshq.org/cgi-bin/store/commerce.cgi?**](http://www.dlshq.org/cgi-bin/store/commerce.cgi?cart_id=1365991584.272&product=books&pid=ES102&exact_match=on&keywords=swami+Krishnananda)
+
 If you would like to contribute to the dissemination of spiritual knowledge please contact the General Secretary at:
+
 [**generalsecretary@sivanandaonline.org**](mailto:generalsecretary@sivanandaonline.org?subject=Contribution%20to%20Dissemination%20of%20Spiritual%20Knowledge)
+
 * * *
+
 **SEND FEED BACK ON THIS ARTICLE \\\ Email to BT Digest Editor[](mailto:dlsusa.org@gmail.com?subject=DLS%20Posts)(dlsusa.org@gmail.com)**
+
 * * *
+
   

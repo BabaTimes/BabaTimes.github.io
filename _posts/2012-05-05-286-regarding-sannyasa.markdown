@@ -5,10 +5,17 @@ joomla_id: 286
 joomla_url: regarding-sannyasa
 date: 2012-05-05 20:02:24.000000000 +00:00
 ---
+  
+
 # Regarding Sannyasa by Swami Krishnananda
+
 * * *  
+
+
 Created on Wednesday 12 June 2013 21:40
+
 The Basic Proposition is that the Universe is an All-Comprehensive Integrated Organism in Which Everything is Contained Everywhere in Every Form in the Same Way as the Organism of the Human Body Operates as a Living Total Entity.
+
 1. Sannyasa is a consummating process in the development of life through the preceding stages of Brahmacharya, Grihastha and Vanaprastha, these stages being the maturity of the content of consciousness until it reaches a universal gamut in the stage of Sannyasa. Hence all these four stages are necessary even as all the stages in the process of education are necessary. 
 2. A Sannyasin can live anywhere except in his own house or even in the vicinity of his house. The more distant the place of living, the better. 
 3. Nowhere is it suggested that a Sannyasin should lead a life of indulgent comfort, but he should be provided with the necessities required for helping others spiritually and to maintain his creature comforts. Grihasthas do not give donation foolishly, because they know the value of the donation which will benefit them also. Else, who will give donation? Necessary facility is different from unnecessary comfort.
@@ -18,6 +25,13 @@ The Basic Proposition is that the Universe is an All-Comprehensive Integrated Or
 7. You are right that Sannyasins cannot live if there are no Grihasthas, but no Sannyasin is expected to exploit a Grihastha. The Grihastha is supposed to feed the Sannyasin out of the facilities he has which he can easily share without diminishing his own needs. Where the donor is not fit enough to give a donation, he need not give a donation. 
 8. Any Administrative System, social or political, requires a blend of spirituality and Trishul, as you have put it. The universe is both trancendental and empirical. The empirical side takes care of phenomenal existence and spiritual meditations take one to the transcendent Absolute. A true Sannyasin performs his greatest duty not only to one's own country but to the whole world in his widespread comprehensive outlook of all life taken together. The Sannyasin truly is not a human individual but an embodiment of the power of the cosmos in some degree. You are right that even the Sannyasin should look to the duty of maintaining physical peace in the world together with the tasks he undertakes to spread mental peace and spiritual enlightenment among human beings. The earth and the heaven should go together. The Sannyasin treads the earth but keeps his head in the heavens.
 9. A Sannyasin may abandon connection with company of people and live a life of seclusion and deep meditation utterly independent and accepting nothing from anyone. God will take care of that person. The all-seeing Universal Eye of God can work miracles beyond ordinary human comprehension.
+
 [Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society]
+
 * * *
+
+
+
+
+
   

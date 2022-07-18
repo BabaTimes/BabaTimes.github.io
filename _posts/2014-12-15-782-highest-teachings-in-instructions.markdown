@@ -5,11 +5,67 @@ joomla_id: 782
 joomla_url: highest-teachings-in-instructions
 date: 2014-12-15 18:02:09.000000000 +00:00
 ---
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Spiritual Message for the Day - Highest Teachings in Instructions by Sri Swami Sivananda**
+
 **Baba Times Digest© | 15 December 2014 21.51 EST | New York Edition**
+
 * * *  
+
+
 **Highest Teachings in Instructions**
+
 **Divine Life Society Publication:** [**Yoga of Synthesis**](http://www.sivanandaonline.org/public_html/?cmd=displaysection&section_id=649&parent=632&format=html) **by Sri Swami Sivananda**
+
 1. Reduce your wants to the utmost minimum.  
  2. Adapt yourself to circumstances.  
  3. Never be attached to anything or anybody.  
@@ -70,13 +126,29 @@ date: 2014-12-15 18:02:09.000000000 +00:00
  58. Be moderate in everything. Extremes are always dangerous.  
  59. Every day have self-analysis and introspection. Know the amount of your growth.  
  60. Give up curiosities in spiritual path. Conserve your energy and concentrate. Think little of food, body and relatives. Think more of Atman. You must realise in this very birth itself!
+
+
+
 **Excerpts from:**  **Highest Teachings in Instructions -** [**Yoga of Synthesis**](http://www.sivanandaonline.org/public_html/?cmd=displaysection&section_id=649&parent=632&format=html) **by Sri Swami Sivananda**
+
 If you would like to purchase the print edition, visit: **[The Divine Life Society E-Bookstore](http://www.dlshq.org/download/download.htm)**
+
 If you would like to contribute to the dissemination of spiritual knowledge please contact the General Secretary at: [](mailto:%20%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20var%20prefix%20=%20%27ma%27%20+%20%27il%27%20+%20%27to%27;%20var%20path%20=%20%27hr%27%20+%20%27ef%27%20+%20%27=%27;%20var%20addy57016%20=%20%27generalsecretary%27%20+%20%27@%27;%20addy57016%20=%20addy57016%20+%20%27sivanandaonline%27%20+%20%27.%27%20+%20%27org%27;%20document.write%28%27%3Ca%20%27%20+%20path%20+%20%27%5C%27%27%20+%20prefix%20+%20%27:%27%20+%20addy57016%20+%20%27%5C%27%3E%27%29;%20document.write%28addy57016%29;%20document.write%28%27%3C%5C/a%3E%27%29;%20//--%3E%5Cn%20%3C/script%3E%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20document.write%28%27%3Cspan%20style=%5C%27display:%20none;%5C%27%3E%27%29;%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20document.write%28%27%3C/%27%29;%20document.write%28%27span%3E%27%29;%20//--%3E%20%3C/script%3E?subject=Contribution%20to%20Dissemination%20of%20Spiritual%20Knowledge) **generalsecretary@sivanandaonline.org**
+
 ****
+
 **SEND FEED BACK ON THIS ARTICLE \\\ Email to BT Digest Editor[](mailto:%20%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20var%20prefix%20=%20%27ma%27%20+%20%27il%27%20+%20%27to%27;%20var%20path%20=%20%27hr%27%20+%20%27ef%27%20+%20%27=%27;%20var%20addy72654%20=%20%27dlsusa.org%27%20+%20%27@%27;%20addy72654%20=%20addy72654%20+%20%27gmail%27%20+%20%27.%27%20+%20%27com%27;%20document.write%28%27%3Ca%20%27%20+%20path%20+%20%27%5C%27%27%20+%20prefix%20+%20%27:%27%20+%20addy72654%20+%20%27%5C%27%3E%27%29;%20document.write%28addy72654%29;%20document.write%28%27%3C%5C/a%3E%27%29;%20//--%3E%5Cn%20%3C/script%3E%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20document.write%28%27%3Cspan%20style=%5C%27display:%20none;%5C%27%3E%27%29;%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20document.write%28%27%3C/%27%29;%20document.write%28%27span%3E%27%29;%20//--%3E%20%3C/script%3E?subject=DLS%20Posts)( [dlsusa.org@gmail.com](mailto:dlsusa.org@gmail.com))**
+
+
+
 * * *
+
+
+
   
+
 If you would like to purchase the print edition, visit: [The Divine Life Society E-Bookstore](http://www.dlshq.org/download/download.htm)
+
 If you would like to contribute to the dissemination of spiritual knowledge please contact the General Secretary at: **[generalsecretary@sivanandaonline.org](mailto:generalsecretary@sivanandaonline.org)**
+
 **SEND FEED BACK ON THIS ARTICLE \\\**  **Email to BT Digest Editor**** [](mailto:%20%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20var%20prefix%20=%20%27ma%27%20+%20%27il%27%20+%20%27to%27;%20var%20path%20=%20%27hr%27%20+%20%27ef%27%20+%20%27=%27;%20var%20addy72654%20=%20%27dlsusa.org%27%20+%20%27@%27;%20addy72654%20=%20addy72654%20+%20%27gmail%27%20+%20%27.%27%20+%20%27com%27;%20document.write%28%27%3Ca%20%27%20+%20path%20+%20%27%5C%27%27%20+%20prefix%20+%20%27:%27%20+%20addy72654%20+%20%27%5C%27%3E%27%29;%20document.write%28addy72654%29;%20document.write%28%27%3C%5C/a%3E%27%29;%20//--%3E%5Cn%20%3C/script%3E%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20document.write%28%27%3Cspan%20style=%5C%27display:%20none;%5C%27%3E%27%29;%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type=%27text/javascript%27%3E%20%3C%21--%20document.write%28%27%3C/%27%29;%20document.write%28%27span%3E%27%29;%20//--%3E%20%3C/script%3E?subject=DLS%20Posts)****( [dlsusa.org@gmail.com](mailto:dlsusa.org@gmail.com))**  

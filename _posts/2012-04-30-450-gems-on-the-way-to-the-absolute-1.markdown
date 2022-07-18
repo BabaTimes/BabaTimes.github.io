@@ -6,10 +6,15 @@ joomla_url: gems-on-the-way-to-the-absolute-1
 date: 2012-04-30 00:56:21.000000000 +00:00
 ---
 # Gems on the Way to the Absolute by Swami Krishnananda
+
 * * *
+
 Created on Tuesday 11 February 2014 15:47
+
 **READ MORE \\\** [Gems on the Way to the Absolute](http://www.swami-krishnananda.org/disc/disc_56.html)
+
 108 sentences selected and compiled from [The Realisation of the Absolute](http://www.swami-krishnananda.org/realis_0.html) on the occasion of Swami Krishnananda's 72nd birthday in 1994.
+
 1. Philosophy is the dear delight of the reason; the great joy of the understanding.
 2. True philosophy is the solace of the heart, the peace of the mind, the refuge of the human individual.
 3. Philosophy examines the entire gamut of possible experiences and lifts human thought to the Divine Consciousness. 
@@ -118,7 +123,16 @@ Created on Tuesday 11 February 2014 15:47
 106. There is no seer but That, no hearer but That, no thinker but That, no knower but That.
 107. According to the Rig Veda, even "immortality and death are It's shadows". What ever truly exists is the Real.
 108. Brahman is Infinite, the Universe is Infinite; from the Infinite proceeds the Infinite, and after deducting the Infinite from the Infinite, what remains is but the Infinite.
+
 [Extracted from Swami Krishnananda Maharaj's discourses Divine Life Society]
+
 * * *
+
+
+
 * * *
+
+
+
 # The Gospel of the Bhagavadgita
+
