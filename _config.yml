@@ -3,3 +3,4 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 paginate: 5
+paginate_path: "/page:num/"
