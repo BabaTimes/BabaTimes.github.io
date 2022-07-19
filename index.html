@@ -9,12 +9,9 @@ title: The Baba Times
 <hr>
 {% endfor %}
 
-<div>
-   <div align="left">
-      <a href="{{ paginator.previous_page_path }}">◄◄ Previous page ({{ paginator.previous_page }})</a>
-   </div>
-   <div align="right">
-      <a href="{{ paginator.next_page_path }}">Next page ({{ paginator.next_page }}) ►►</a>
-   </div>
-Total pages: {{ paginator.total_pages }}
+<div align="justify">
+   <a href="/">◄◄ First</a>
+   <a href="{{ paginator.previous_page_path }}">◄ Previous ({{ paginator.previous_page }})</a>
+   <a href="{{ paginator.next_page_path }}">Next ({{ paginator.next_page }}) ►</a>
+   <a href="/page{{ paginator.total_pages }}">Last ({{ paginator.total_pages }}) ►►</a>
 </div>
