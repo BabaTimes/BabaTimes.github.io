@@ -1,2 +1,2 @@
-# BabaTimes.github.io
-The next-generation BabaTimes website
+# The Baba Times
+Your Window to the World of Philoshopy, Religion and Spirituality
