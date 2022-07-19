@@ -9,6 +9,6 @@ title: The Baba Times
 <div>
 {% endfor %}
 
-{% for page in paginator.pages %}
-   {{ page }}
+{% for page in paginator.total_pages %}
+   {{ page }} 
 {% endfor %}
