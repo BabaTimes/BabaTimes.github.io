@@ -8,3 +8,7 @@ title: The Baba Times
    {{ post.content }}
 <div>
 {% endfor %}
+
+{% for page in paginator.pages %}
+   {{ page }}
+{% endfor %}
