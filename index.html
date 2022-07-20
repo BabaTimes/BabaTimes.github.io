@@ -2,7 +2,8 @@
 layout: default
 title: The Baba Times
 ---
-<h2>Welcome to The Baba Times: Your Window to the World of Philosophy, Religion and Spirituality!</h2>
+<h2>Welcome to The Baba Times</h2>
+<h3>Your Window to the World of Philosophy, Religion and Spirituality!</h3>
 
 <p>This website is devoted to Philosophy, Religion, Spirituality and Science. We bring in articles on teachings by Great Saints like Sri Shirdi Sai Baba, Adi Shankara, Swami Sivananda, Swami Krishnananda, Aurobindo, Mother of Auroville and others.</p>
 
@@ -11,6 +12,15 @@ title: The Baba Times
 <p>This will include discussions on various topics like <b>Upanishads, Philosophy, Spirituality & Meditation</b> through Skype. Please send 'Add Request' to 'DLSNewYork' from your skype account so that you can participate in this Satsang. These sessions are part of Divine Life Society from Rishikesh</p>
 
 <p>Hari Om. The Baba Times Team, Contact thebabatimes@gmail.com</p>
+
+<hr>
+
+<div style="width: 100%; display: flex; justify-content: space-between;">
+   <a href="/">◄◄ First</a>
+   <a href="{{ paginator.previous_page_path }}">◄ Previous ({{ paginator.previous_page }})</a>
+   <a href="{{ paginator.next_page_path }}">Next ({{ paginator.next_page }}) ►</a>
+   <a href="/page{{ paginator.total_pages }}">Last ({{ paginator.total_pages }}) ►►</a>
+</div>
 
 <hr>
 
